@@ -26,17 +26,18 @@ cleanly to Railway.
   proof posts, clone pipelines) and two video hyper-edit engines (vertical split talking head and
   landscape long-form).
 
-## Quick start
+## Quick start (3 steps)
 
 ```bash
 npm install
-cp .env.example .env.local      # fill in the Core block at minimum
-npm run dev                      # http://localhost:3000
-npm run build                    # production build (also the type check)
+cp .env.example .env.local      # 1. fill in the Core block: DATABASE_URL, APP_PASSWORD, APP_AUTH_SECRET
+npm run db:setup                 # 2. creates all 33 tables + a starter channel (safe to re-run)
+npm run dev                      #    http://localhost:3000, log in with APP_PASSWORD
+railway up                       # 3. deploy (set the same variables in Railway first)
 ```
 
-Only `DATABASE_URL`, `APP_PASSWORD` and `APP_AUTH_SECRET` are needed to boot. Every integration is
-optional and switches on when its key is present.
+Any Postgres 13+ works (Insforge, Railway Postgres, Supabase, Neon). The schema lives in
+`db/schema.sql`. Every integration is optional and switches on when its key is present.
 
 ## Wiring your accounts
 

@@ -22,7 +22,8 @@
     "system-graph": "node --no-warnings scripts/system-graph-export.mjs",
     "laya-dataset": "node scripts/laya/build_tool_dataset.mjs",
     "laya-finetune": "python3 scripts/laya/finetune.py",
-    "laya-server": "USE_TF=0 LAYA_DEVICE=mps python3 scripts/laya/server.py"
+    "laya-server": "USE_TF=0 LAYA_DEVICE=mps python3 scripts/laya/server.py",
+    "db:setup": "node --env-file=.env.local scripts/db-setup.mjs"
   },
   "dependencies": {
     "@react-three/fiber": "^9.6.1",
