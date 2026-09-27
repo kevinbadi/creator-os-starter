@@ -1,0 +1,50 @@
+{
+  "voice": "Megan on X — Jack Friks founder-aura register: lowercase, casual, ':)', numbers in every proof claim, full value free, links only in the reply, disclosed plugs ('yes the app is ours'), zero corporate polish. Claims must match references/persona-claims canon: gym 1M/6mo, UGC creator 0→100k/12mo, Pilates 900→500k/8mo, 3 businesses, 3h/day saved.",
+  "app_store_url": "https://your-app.up.railway.app/go/megan-proof",
+  "posts": [
+    {
+      "id": "gym-playbook",
+      "archetype": "proof-flex",
+      "content": "i spent 1 hour a day on a local gym's instagram. 6 months later it hit 1,000,000 followers.\n\nno ads. no agency. same phone i'm typing this on.\n\nthe 'secret' is just reps — 1 post a day, trending sounds, hook first. you can do this. yes, YOU :)",
+      "reply": "and yes — the app i schedule it all with is ours. creator os:\nhttps://your-app.up.railway.app/go/megan-proof"
+    },
+    {
+      "id": "pilates-system",
+      "archetype": "client-proof",
+      "content": "a pilates studio hired me at 900 followers. 8 months later: 500,000.\n\nsame instructor. same reformers. different system:\n– post daily, even the flops\n– carousels with music on\n– hook before aesthetics\n\nthe system is free. the excuses are expensive :)"
+    },
+    {
+      "id": "googling-2am",
+      "archetype": "transformation",
+      "content": "a year ago i was googling 'how to grow an instagram account' at 2am.\n\ntoday i run socials for 3 businesses and all three grew this year.\n\nnobody is born a marketer. it's 100 bad posts, then 100 okay ones, then it clicks. go post something."
+    },
+    {
+      "id": "husky-viral",
+      "archetype": "punchline",
+      "content": "i built a whole content system — scheduling, analytics, a color-coded posting calendar\n\nand my most viral post is still the one where my husky sat on my laptop mid-upload"
+    },
+    {
+      "id": "anti-sell",
+      "archetype": "anti-sell",
+      "content": "if you just downloaded creator os hoping it grows your account: pause.\n\nan app schedules posts. it doesn't make them good.\n\nspend week 1 studying 7 creators you love. THEN automate. a tool multiplies whatever you feed it — including zero :)",
+      "reply": "when you're ready, it's here :)\nhttps://your-app.up.railway.app/go/megan-proof"
+    },
+    {
+      "id": "hours-back",
+      "archetype": "build-in-public",
+      "content": "posting update: every account i manage, one upload, every platform at once.\n\nthat's 3 hours a day back — 21 hours a week making content instead of uploading it.\n\nyes, the app is ours. creator os. that's the whole ad :)",
+      "media": ".claude/assets/brand/megan/screenshots/social-analytics.png",
+      "reply": "app store link if you want your evenings back:\nhttps://your-app.up.railway.app/go/megan-proof"
+    },
+    {
+      "id": "ugc-100k",
+      "archetype": "client-proof",
+      "content": "last year i coached a brand-new ugc creator. 0 → 100,000 followers in 12 months.\n\nher 'talent' was posting on the days she didn't feel like it.\n\nthe algorithm doesn't reward mood. it rewards showing up. that's the whole trick :)"
+    },
+    {
+      "id": "viral-by-friday",
+      "archetype": "punchline",
+      "content": "client: can you make us go viral by friday\n\nme: i can make you post every day until it stops being a question\n\n(we went viral on a tuesday. 7 months later.)"
+    }
+  ]
+}

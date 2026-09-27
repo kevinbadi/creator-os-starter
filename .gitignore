@@ -1,0 +1,62 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# local content pipeline output (rendered slides, ~600MB) + skill run logs
+.claude/brand-content/
+.claude/logs/
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+.env*
+!.env.example
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# Laya sidecar weights / HF cache (421M checkpoint)
+scripts/laya/weights/
+scripts/laya/.cache/
+
+# gitnexus index (~90MB LadybugDB). The dashboard reads the committed export
+# at src/data/gitnexus-graph.json instead — refresh with `npm run repo-graph`.
+.gitnexus/
+.claude/assets/broll/
+# heavy media with Insforge fallbacks — never in git (railway up uses .railwayignore)
+.claude/assets/reaction-clips/
+.claude/assets/brand/*/library/
+
+# python
+__pycache__/
+*.pyc

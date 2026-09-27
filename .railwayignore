@@ -1,0 +1,28 @@
+# Railway upload filter (overrides .gitignore for `railway up`).
+# Key difference from .gitignore: .claude/brand-content is NOT fully excluded —
+# the daily Danny cron needs the persona libraries, screenshots, hooks and
+# reference images on the server. Only the heavy per-run render output stays out.
+node_modules
+.next
+out
+# gitnexus native index (~90MB); the dashboard ships src/data/gitnexus-graph.json
+.gitnexus
+build
+coverage
+.env*
+.DS_Store
+*.pem
+*.tsbuildinfo
+npm-debug.log*
+.claude/logs
+# rendered carousel runs (regenerated per run; hundreds of MB)
+.claude/brand-content/*/carousels
+# ALL reaction clip banks live in Insforge storage (template personas.<slug>.clips
+# carries the URLs, incl. creatoros) — the mp4s blew past Railway's 413 upload cap.
+.claude/assets/reaction-clips
+# app b-roll lives in Insforge (TEMPLATE.broll urls) — reaction-ugc auto-downloads
+.claude/assets/broll
+# heavy harvested libraries live in Insforge (persona_images) — runtime uses bankFallback
+.claude/assets/brand/*/library
+# philosophy podcast drops are transcribed locally, never deployed (heavy media)
+.claude/assets/philosophy/inbox

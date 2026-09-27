@@ -1,0 +1,10 @@
+{
+  "_doc": "URLs the AI news ingest must never surface. `match` is a case-insensitive substring of the item URL (github.com/<owner>/<repo> blocks that repo; github.com/<owner>/ blocks the owner). Existing rows that match are dismissed on every run and their video ideas are dropped.",
+  "blocked": [
+    {
+      "match": "github.com/colafornia/short-video-generator-ai",
+      "reason": "Malware. main.py bootstraps src/fs.py which downloads and exec()s a remote 'manual_mapper' payload from a hardcoded IP; video code is pasted filler. Confirmed 2026-09-11.",
+      "added": "2026-09-11"
+    }
+  ]
+}

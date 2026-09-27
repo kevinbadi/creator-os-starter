@@ -1,0 +1,4 @@
+laya
+fastapi
+uvicorn
+torch

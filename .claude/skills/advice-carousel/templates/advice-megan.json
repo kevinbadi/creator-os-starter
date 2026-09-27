@@ -1,0 +1,857 @@
+{
+  "topic_prefix": "Creator growth advice",
+  "content_pillar": "creatoros",
+  "visual_pillar": "advice",
+  "identity_anchor": "Megan — a young white woman in her mid-20s with long glossy platinum-blonde hair in soft loose waves, fair sun-kissed skin, delicate silver heart necklace, curvy hourglass figure. HER FACE IS NEVER SHOWN — every shot is from behind, face turned away, or hidden behind her phone; identity is carried by the hair, necklace, outfit and husky.",
+  "bank_vars": {
+    "OUTFIT": "outfits"
+  },
+  "banks": {
+    "outfits": [
+      "cream",
+      "all-black",
+      "butter-yellow",
+      "sage-green",
+      "soft-blush-pink"
+    ],
+    "hooks": [
+      {
+        "headline": "i made content WRONG for years. my best friend's page paid for it first.",
+        "thread_intro": "My best friend was one bad week from deleting her page. She let me run it as a last resort: 250,000 followers in 11 months. She gets recognized at brunch now.\n\nExactly what we changed. The 10 tips 🧵",
+        "caption_line": "years of doing it wrong, then my best friend's page blew up in 11 months 😭",
+        "insets": [
+          {
+            "prompt": "A full-bleed screenshot filling the ENTIRE image edge-to-edge, NOT shown inside a phone mockup, no phone frame, no bezel, no background margins. Realistic Instagram interface, sharp legible UI text, bright and clean, no visible faces anywhere, no watermark. The profile page of 'chloe.softmornings': round avatar photo of a brunette woman from behind at golden hour (no visible face), stats row reading exactly '348 posts', '250K followers', '376 following', bio lines 'your internet big sister ☁️' and 'grew this in 11 months', a blue Follow button, and below a 3-column grid of aesthetic lifestyle photos: cafe corners, morning journaling flatlays, mirror outfit checks with the phone covering the face, farmers market hauls, golden-hour walks. The stats row is large and clearly legible.",
+            "widthFrac": 0.42
+          },
+          {
+            "prompt": "A full-bleed screenshot filling the ENTIRE image edge-to-edge, NOT shown inside a phone mockup, no phone frame, no bezel, no background margins. Realistic Instagram interface, sharp legible UI text, bright and clean, no visible faces anywhere, no watermark. An Instagram professional dashboard follower-growth screen for 'chloe.softmornings': a smooth rising line chart from 0 to 250,118 followers across 11 months, header 'Followers', date range labels along the bottom, clean white analytics UI. The follower number is large and clearly legible.",
+            "widthFrac": 0.42
+          },
+          {
+            "prompt": "A full-bleed screenshot filling the ENTIRE image edge-to-edge, NOT shown inside a phone mockup, no phone frame, no bezel, no background margins. Realistic Instagram interface, sharp legible UI text, bright and clean, no visible faces anywhere, no watermark. An Instagram insights audience screen for account 'chloe.softmornings': big stat '250K followers', a green '+2.8% this week' pill, a small rising sparkline, cities list showing Toronto, Vancouver, New York, clean white analytics UI. The follower number is large and clearly legible.",
+            "widthFrac": 0.42
+          }
+        ]
+      },
+      {
+        "headline": "my best creator friend showed me the biggest hack omg",
+        "thread_intro": "A creator friend pulled me aside last year and showed me how she actually grows accounts. I used it to take a brand-new UGC creator from 0 to 100,000 followers in 12 months.\n\nThe whole playbook 🧵",
+        "caption_line": "my best creator friend finally spilled and i'm actually mad i didn't know this sooner 😭",
+        "insets": [
+          {
+            "prompt": "A full-bleed screenshot of an Instagram profile page filling the ENTIRE image edge-to-edge — NOT shown inside a phone mockup, no phone frame, no bezel, no background margins. The profile page for a young female lifestyle content creator called 'maya.creates'. Clean modern Instagram app UI on a white background: round profile avatar showing a sunlit aesthetic photo of a woman from behind (no visible face), username 'maya.creates' at the top, stats row reading exactly '486 posts', '100K followers', '892 following', short bio lines 'UGC creator ✨' and 'coffee, content & chaos', a blue Follow button, and below it a 3-column grid of aesthetic lifestyle photos: latte art, golden-hour selfie from behind, flatlays, gym mirror shots with the phone covering the face. Realistic Instagram interface, sharp legible UI text, bright and clean, no visible faces anywhere, no watermark. The stats row (posts / followers / following) is large and clearly legible.",
+            "widthFrac": 0.42
+          },
+          {
+            "prompt": "A full-bleed screenshot of an Instagram profile page filling the ENTIRE image edge-to-edge — NOT shown inside a phone mockup, no phone frame, no bezel, no background margins. The profile page for a young female travel-and-coffee content creator called 'elena.films'. Clean modern Instagram app UI on a white background: round profile avatar with a golden-hour photo of a woman from behind on a beach (no visible face), username 'elena.films' at the top, stats row reading exactly '512 posts', '100K followers', '764 following', short bio lines 'UGC + storytelling 🎞️' and 'shot on iPhone, edited in bed', a blue Follow button, and below it a 3-column grid of aesthetic lifestyle photos: café windows, boarding passes flatlays, sunset reels covers, mirror shots with the phone covering the face. Realistic Instagram interface, sharp legible UI text, bright and clean, no clearly visible faces anywhere, no watermark. The stats row (posts / followers / following) is large and clearly legible.",
+            "widthFrac": 0.42
+          },
+          {
+            "prompt": "A full-bleed screenshot of an Instagram profile page filling the ENTIRE image edge-to-edge — NOT shown inside a phone mockup, no phone frame, no bezel, no background margins. The profile page for a young female fitness-lifestyle content creator called 'sofia.creates'. Clean modern Instagram app UI on a white background: round profile avatar with a soft pink aesthetic photo of a woman from behind in gym wear (no visible face), username 'sofia.creates' at the top, stats row reading exactly '438 posts', '100K followers', '689 following', short bio lines 'UGC creator 💪✨' and 'gym girl era • DM for collabs', a blue Follow button, and below it a 3-column grid of aesthetic fitness photos: gym mirror shots with phone covering the face, smoothie bowls, workout set flatlays, golden-hour walks from behind. Realistic Instagram interface, sharp legible UI text, bright and clean, no clearly visible faces anywhere, no watermark. The stats row (posts / followers / following) is large and clearly legible.",
+            "widthFrac": 0.42
+          }
+        ]
+      },
+      {
+        "headline": "a pilates instructor trusted me with her personal brand at 900 followers",
+        "thread_intro": "A Pilates instructor hired me to build her personal brand when she had 900 followers. Eight months later: 120,000 - and her classes sell out the day she posts the schedule.\n\nSame system works for any creator starting small. My 10 tips 🧵",
+        "caption_line": "she had 900 followers. now her classes sell out in a DAY 🤯",
+        "insets": [
+          {
+            "prompt": "A full-bleed screenshot filling the ENTIRE image edge-to-edge, NOT shown inside a phone mockup, no phone frame, no bezel, no background margins. Realistic Instagram interface, sharp legible UI text, bright and clean, no visible faces anywhere, no watermark. The profile page of 'mariapilatesbody': round avatar photo of a woman from behind on a reformer in soft studio light (no visible face), stats row reading exactly '348 posts', '120K followers', '376 following', bio lines 'pilates instructor 🩰' and 'classes sell out - join the waitlist', a blue Follow button, and below a 3-column grid of pilates photos: reformer studio shots from behind, form breakdowns, matcha after class, studio schedule announcements. The stats row is large and clearly legible.",
+            "widthFrac": 0.42
+          },
+          {
+            "prompt": "A full-bleed screenshot filling the ENTIRE image edge-to-edge, NOT shown inside a phone mockup, no phone frame, no bezel, no background margins. Realistic Instagram interface, sharp legible UI text, bright and clean, no visible faces anywhere, no watermark. An Instagram professional dashboard follower-growth screen for 'mariapilatesbody': a smooth rising line chart from 900 to 120,344 followers across 8 months, header 'Followers', date range labels along the bottom, clean white analytics UI. The follower number is large and clearly legible.",
+            "widthFrac": 0.42
+          },
+          {
+            "prompt": "A full-bleed screenshot filling the ENTIRE image edge-to-edge, NOT shown inside a phone mockup, no phone frame, no bezel, no background margins. Realistic Instagram interface, sharp legible UI text, bright and clean, no visible faces anywhere, no watermark. An Instagram insights audience screen for account 'mariapilatesbody': big stat '120K followers', a green '+2.8% this week' pill, a small rising sparkline, cities list showing Toronto, Vancouver, New York, clean white analytics UI. The follower number is large and clearly legible.",
+            "widthFrac": 0.42
+          }
+        ]
+      },
+      {
+        "headline": "she was ready to delete her page. 6 months later she cried for the other reason.",
+        "thread_intro": "My best friend called me crying after her third month of posting to nobody. She was ready to delete the page.\n\nSix months later she hit 90,000 followers and called me crying again, for the other reason.\n\nWhat we actually changed, in order. 10 tips 🧵",
+        "caption_line": "she almost deleted the page. i still think about that phone call 🥹",
+        "insets": [
+          {
+            "prompt": "A full-bleed screenshot filling the ENTIRE image edge-to-edge, NOT shown inside a phone mockup, no phone frame, no bezel, no background margins. Realistic Instagram interface, sharp legible UI text, bright and clean, no visible faces anywhere, no watermark. The profile page of 'sophie.slowliving': round avatar photo of a brunette woman from behind on a picnic blanket at golden hour (no visible face), stats row reading exactly '311 posts', '90K followers', '385 following', bio lines 'she almost deleted this page' and 'glad she didn't 🥹', a blue Follow button, and below a 3-column grid of cozy lifestyle photos: picnic spreads, book-and-coffee flatlays, mirror outfit checks with the phone covering the face, sunset walks. The stats row is large and clearly legible.",
+            "widthFrac": 0.42
+          },
+          {
+            "prompt": "A full-bleed screenshot filling the ENTIRE image edge-to-edge, NOT shown inside a phone mockup, no phone frame, no bezel, no background margins. Realistic Instagram interface, sharp legible UI text, bright and clean, no visible faces anywhere, no watermark. An Instagram professional dashboard follower-growth screen for 'sophie.slowliving': a line chart flat near zero for 3 months then rising steeply to 90,214 followers by month 9, header 'Followers', date range labels along the bottom, clean white analytics UI. The follower number is large and clearly legible.",
+            "widthFrac": 0.42
+          },
+          {
+            "prompt": "A full-bleed screenshot filling the ENTIRE image edge-to-edge, NOT shown inside a phone mockup, no phone frame, no bezel, no background margins. Realistic Instagram interface, sharp legible UI text, bright and clean, no visible faces anywhere, no watermark. An Instagram insights audience screen for account 'sophie.slowliving': big stat '90K followers', a green '+2.8% this week' pill, a small rising sparkline, cities list showing Toronto, Vancouver, New York, clean white analytics UI. The follower number is large and clearly legible.",
+            "widthFrac": 0.42
+          }
+        ]
+      },
+      {
+        "headline": "she was 3 months from quitting coaching and going back to the office.",
+        "thread_intro": "One of my clients was three months from giving up on coaching and going back to the office job she hated. Her page sat at 2,000 followers for a YEAR.\n\nToday: 75,000 followers and a full client roster. She never went back.\n\nThe 10 things we changed 🧵",
+        "caption_line": "she was about to give up on her dream. the page just needed a system 🩵",
+        "insets": [
+          {
+            "prompt": "A full-bleed screenshot filling the ENTIRE image edge-to-edge, NOT shown inside a phone mockup, no phone frame, no bezel, no background margins. Realistic Instagram interface, sharp legible UI text, bright and clean, no visible faces anywhere, no watermark. The profile page of 'nina.nutritioncoach': round avatar photo of a woman from behind in an apron prepping vegetables in a bright kitchen (no visible face), stats row reading exactly '311 posts', '75K followers', '385 following', bio lines 'nutrition coach 🥦 1:1 spots full' and 'she almost went back to the office', a blue Follow button, and below a 3-column grid of nutrition coaching content: meal-prep spreads, grocery hauls, client win screenshots with names blurred, recipe cards. The stats row is large and clearly legible.",
+            "widthFrac": 0.42
+          },
+          {
+            "prompt": "A full-bleed screenshot filling the ENTIRE image edge-to-edge, NOT shown inside a phone mockup, no phone frame, no bezel, no background margins. Realistic Instagram interface, sharp legible UI text, bright and clean, no visible faces anywhere, no watermark. An Instagram professional dashboard follower-growth screen for 'nina.nutritioncoach': a line chart stuck at 2,000 for 12 months then rising steeply to 75,340 followers, header 'Followers', date range labels along the bottom, clean white analytics UI. The follower number is large and clearly legible.",
+            "widthFrac": 0.42
+          },
+          {
+            "prompt": "A full-bleed screenshot filling the ENTIRE image edge-to-edge, NOT shown inside a phone mockup, no phone frame, no bezel, no background margins. Realistic Instagram interface, sharp legible UI text, bright and clean, no visible faces anywhere, no watermark. An Instagram insights audience screen for account 'nina.nutritioncoach': big stat '75K followers', a green '+2.8% this week' pill, a small rising sparkline, cities list showing Toronto, Vancouver, New York, clean white analytics UI. The follower number is large and clearly legible.",
+            "widthFrac": 0.42
+          }
+        ]
+      },
+      {
+        "headline": "a yoga instructor bet on me at 1,100 followers. her teacher training sells out now.",
+        "thread_intro": "A yoga instructor hired me at 1,100 followers. Eight months later: 180,000 - and her teacher training sells out.\n\nSame playbook works for any creator starting from zero. My 10 tips 🧵",
+        "caption_line": "1,100 followers to sold-out teacher trainings. here's what we actually did 🧘‍♀️",
+        "insets": [
+          {
+            "prompt": "A full-bleed screenshot filling the ENTIRE image edge-to-edge, NOT shown inside a phone mockup, no phone frame, no bezel, no background margins. Realistic Instagram interface, sharp legible UI text, bright and clean, no visible faces anywhere, no watermark. The profile page of 'elena.yogaflow': round avatar photo of a woman from behind in a yoga pose on a mat in warm light (no visible face), stats row reading exactly '348 posts', '180K followers', '376 following', bio lines 'yoga teacher 🧘‍♀️ 200hr YTT' and 'teacher training sold out - waitlist open', a blue Follow button, and below a 3-column grid of yoga photos: sunrise flows from behind, studio candids, retreat announcements, pose breakdowns. The stats row is large and clearly legible.",
+            "widthFrac": 0.42
+          }
+        ]
+      },
+      {
+        "headline": "my bf bet me i couldn't fix his dead fitness page in 90 days. he lost.",
+        "thread_intro": "My boyfriend bet me I could not fix his dead fitness page in 90 days. Day 70: 35,000 followers and his first brand deal.\n\nHe owes me dinner for life. Exactly what I did, in order - my 10 tips 🧵",
+        "caption_line": "he bet me 90 days. it took 70. he's still salty 😌",
+        "insets": [
+          {
+            "prompt": "A full-bleed screenshot filling the ENTIRE image edge-to-edge, NOT shown inside a phone mockup, no phone frame, no bezel, no background margins. Realistic Instagram interface, sharp legible UI text, bright and clean, no visible faces anywhere, no watermark. The profile page of 'jake.lifts.to': round avatar photo of a muscular man from behind at a squat rack (no visible face), stats row reading exactly '311 posts', '35K followers', '385 following', bio lines 'fitness + progressive overload 🏋️' and 'run by my gf apparently (she won the bet)', a blue Follow button, and below a 3-column grid of fitness photos: gym lifts from behind, meal prep containers, running shots at sunrise, form checks. The stats row is large and clearly legible.",
+            "widthFrac": 0.42
+          }
+        ]
+      },
+      {
+        "headline": "my old boss finally told me why our posts never grew. one chat rewired everything.",
+        "thread_intro": "My old marketing boss finally told me why our posts never grew. One conversation rewired how I make content.\n\nEverything she taught me, in my words. My 10 tips 🧵",
+        "caption_line": "mentors don't gatekeep if you actually ask 🤍",
+        "insets": []
+      },
+      {
+        "headline": "a florist gave her page one wedding season to matter",
+        "thread_intro": "A florist told me her shop had one wedding season to prove Instagram could book brides, or she'd drop it. By September: 48,000 followers and a booked-out fall calendar.\n\nExactly what we ran. 10 tips 🧵",
+        "caption_line": "one wedding season to prove it. she's booked through fall now 💐"
+      },
+      {
+        "headline": "her nail studio was dead on weekdays. 5 months fixed it.",
+        "thread_intro": "A nail artist I coach had a studio empty Monday to Thursday. We rebuilt her page from 800 followers. Five months later: 62,000 followers and a weekday waitlist.\n\nHer 10 moves 🧵",
+        "caption_line": "empty weekdays to a waitlist. the page did that 💅"
+      },
+      {
+        "headline": "a med spa owner bet her page could fill the slow month",
+        "thread_intro": "A med spa owner bet me her page could fill January, her deadest month. It went 1,200 to 55,000 followers by winter and January booked out for the first time ever.\n\nThe playbook 🧵",
+        "caption_line": "she bet me on her worst month. january sold out 🤍"
+      },
+      {
+        "headline": "a dance studio had 90 days before it lost the lease",
+        "thread_intro": "A dance studio owner had 90 days to fill classes or lose the lease. We took her page from 1,500 to 40,000 followers in ten weeks and enrollment doubled.\n\nEverything we did, in order. 10 tips 🧵",
+        "caption_line": "90 days to save the studio. 10 weeks was enough 🩰"
+      },
+      {
+        "headline": "a plant shop was a hobby until her page went off",
+        "thread_intro": "A friend ran a plant shop as a side hobby that barely covered rent. We rebuilt her page from 600 followers. Four months later: 90,000 followers and she quit her day job.\n\nHer 10 tips 🧵",
+        "caption_line": "a hobby shop to her full-time income in 4 months 🪴"
+      },
+      {
+        "headline": "a wedding photographer bet her page over word of mouth",
+        "thread_intro": "A wedding photographer relied on referrals until they dried up. We built her page from 2,000 followers to 75,000 in eight months and she's booking a year out now.\n\nThe whole system 🧵",
+        "caption_line": "referrals dried up. the page books her a year out now 📸"
+      },
+      {
+        "headline": "a massage therapist had 6 clients. now she has a waitlist.",
+        "thread_intro": "A massage therapist came to me with six regular clients and an empty schedule. Her page went 400 to 30,000 followers in five months and she has a two-week waitlist.\n\nWhat she changed 🧵",
+        "caption_line": "6 clients to a 2-week waitlist. all from the page 💆‍♀️"
+      },
+      {
+        "headline": "a bakery gave social a summer to fill the case",
+        "thread_intro": "A bakery owner gave her social a summer to sell out the case by noon, or she'd stop posting. By August: 52,000 followers and a line down the block on weekends.\n\nExactly what worked. 10 tips 🧵",
+        "caption_line": "a summer to sell out the case. line down the block now 🥐"
+      },
+      {
+        "headline": "my sister almost gave up on her small business",
+        "thread_intro": "My sister was three months from closing her small business. Her page had sat at 700 followers for a year. We fixed the system and she hit 45,000 followers and her best quarter ever.\n\nHer 10 tips 🧵",
+        "caption_line": "she almost closed the doors. now it's her best quarter 🥹"
+      },
+      {
+        "headline": "a girl from my pilates class had a dead skincare page",
+        "thread_intro": "A girl from my pilates class had a skincare line and a page nobody saw. We rebuilt it from 900 followers to 68,000 in six months and she sold out her first product drop.\n\nWhat we did 🧵",
+        "caption_line": "dead page to a sold-out product drop in 6 months ✨"
+      },
+      {
+        "headline": "an esthetician had one quarter to book out or quit",
+        "thread_intro": "An esthetician gave herself one quarter to book out or go back to a salon job. Her page went 1,100 to 50,000 followers and she's fully booked with a waitlist.\n\nHer 10 moves 🧵",
+        "caption_line": "one quarter or quit. she's booked out now 🧖‍♀️"
+      },
+      {
+        "headline": "a juice bar owner bet her page could beat foot traffic",
+        "thread_intro": "A juice bar owner bet me her page could out-earn walk-ins by summer. It went 1,000 to 47,000 followers and online orders passed the counter for the first time.\n\nThe 10 things we ran 🧵",
+        "caption_line": "online orders passed the counter. the page did it 🥤"
+      }
+    ],
+    "hook_scenes": [
+      "A young white woman in her mid-20s with long glossy platinum-blonde hair in soft loose waves, a delicate silver heart necklace and a curvy hourglass figure, framed thigh-up and dominating the frame, standing beside her glossy pink Porsche Macan SUV parked in front of a luxury glass storefront at golden hour — photographed from behind with her face fully turned away toward the car, one hand on the door handle, wearing a chic {{OUTFIT}} tailored blazer with matching shorts and nude heels, designer tote on her shoulder. Warm cinematic editorial, creamy bokeh, shallow depth of field, photorealistic, subtle grain. Her face is never visible — no face, no reflection of her face in the car glass. No text, no captions, no watermark.",
+      "A young white woman with long glossy platinum-blonde hair in soft waves and a delicate silver heart necklace, framed thigh-up and dominating the frame, taking a mirror selfie in a sunlit boutique Pilates studio — her iPhone raised so it fully covers her entire face, wearing a fitted {{OUTFIT}} matching workout set, a reformer machine and hanging plants softly blurred behind her. Bright airy editorial wellness photography, creamy bokeh, shallow depth of field, photorealistic, subtle grain. Her face is completely hidden behind the phone — no visible face, no face in the mirror reflection. No text, no captions, no watermark.",
+      "A young white woman with long glossy platinum-blonde hair in soft loose waves and a delicate silver heart necklace, framed thigh-up and dominating the frame, standing at a rooftop terrace rail at golden hour with a downtown Toronto skyline and the CN Tower softly blurred behind — photographed from behind, face fully turned away to the view, holding a laptop against her hip, wearing a chic {{OUTFIT}} tailored blazer. Rich warm filmic grade, creamy bokeh, cinematic editorial, photorealistic, subtle grain. Her face is never visible. No text, no captions, no watermark.",
+      "A young white woman with long glossy platinum-blonde hair in soft waves, a delicate silver heart necklace and a curvy hourglass figure, framed thigh-up and dominating the frame, taking a mirror selfie in a sleek black-and-chrome boutique gym — her iPhone raised so it fully covers her entire face, wearing a fitted {{OUTFIT}} workout set, chrome equipment and warm dramatic lighting softly blurred behind. Editorial fitness photography, creamy bokeh, shallow depth of field, photorealistic, subtle grain. Her face is completely hidden behind the phone — no visible face, no face in the mirror reflection. No text, no captions, no watermark.",
+      "A young white woman with long glossy platinum-blonde hair in soft loose waves and a delicate silver heart necklace, framed thigh-up and dominating the frame, taking a mirror selfie in a candlelit yoga studio at dusk — her iPhone raised so it fully covers her entire face, wearing a fitted {{OUTFIT}} matching yoga set, warm flickering candlelight, dark wood floors, deep shadows and a moody amber glow. Cinematic low-light editorial, creamy bokeh, shallow depth of field, photorealistic, subtle grain. Her face is completely hidden behind the phone — no visible face, no face in the mirror reflection. No text, no captions, no watermark.",
+      "A young white woman with long glossy platinum-blonde hair and a curvy hourglass figure, framed thigh-up and dominating the frame, taking a mirror selfie backstage at a fashion shoot — her iPhone raised so it fully covers her entire face, standing in front of a tall mirror beside a white seamless backdrop with studio strobes and softboxes glowing behind, wearing an elevated {{OUTFIT}} tailored look, a garment rack of designer pieces blurred at the edge. Dramatic high-contrast studio lighting, editorial fashion photography, photorealistic, subtle grain. Her face is completely hidden behind the phone — no visible face, no face in the mirror reflection. No text, no captions, no watermark.",
+      "A young white woman with long glossy platinum-blonde hair in soft waves and a delicate silver heart necklace, framed thigh-up and dominating the frame, taking a mirror selfie in a dim luxe hotel bathroom at night — her iPhone raised so it fully covers her entire face, wearing an elegant {{OUTFIT}} evening look, dark marble walls, brass fixtures, low golden sconce light, deep moody shadows. Rich low-key editorial, creamy bokeh, photorealistic, subtle grain. Her face is completely hidden behind the phone — no visible face, no face in the mirror reflection. No text, no captions, no watermark.",
+      "A young white woman with long glossy platinum-blonde hair in soft loose waves, framed thigh-up and dominating the frame, standing beside her glossy pink Porsche Macan SUV on a rain-slicked downtown street at night — photographed from behind with her face fully turned away, neon signs and city lights reflecting off the wet asphalt and the car's paint, wearing a chic {{OUTFIT}} trench over her outfit. Moody cinematic night editorial, neon color grade, creamy bokeh, photorealistic, subtle grain. Her face is never visible — no face, no reflection of her face in the car glass. No text, no captions, no watermark.",
+      "A young white woman with long glossy platinum-blonde hair in soft waves and a curvy hourglass figure, framed thigh-up and dominating the frame, photographed from behind mid-stride on an overcast fashion-district street — face fully turned away, wearing a chic {{OUTFIT}} street-style OOTD with a designer bag, soft diffused grey daylight, muted tones, blurred storefronts and pedestrians far behind. Understated editorial street photography, creamy bokeh, photorealistic, subtle grain. No clearly visible faces anywhere in the frame. No text, no captions, no watermark.",
+      "A young white woman with long glossy platinum-blonde hair in soft loose waves, a delicate silver heart necklace and an oversized {{OUTFIT}} knit, framed thigh-up and dominating the frame, taking a cozy evening mirror selfie in a warm lamplit loft — her iPhone raised so it fully covers her entire face, her fluffy grey-and-white Siberian husky curled on the sofa behind her, string lights and soft-focus city night through the window. Warm low-light editorial, creamy bokeh, photorealistic, subtle grain. Her face is completely hidden behind the phone — no visible face, no face in any reflection. No text, no captions, no watermark."
+    ],
+    "ctas": [
+      {
+        "overlay": "the app that runs it all is in my bio 🤍",
+        "thread": "Last thing: the app that runs my whole operation is Creator OS — every account, every platform, one upload.\n\nDownload it here: https://your-app.up.railway.app/go/megan-threads"
+      },
+      {
+        "overlay": "everything I use is in my bio - go post something",
+        "thread": "That's the playbook. The tool that makes it possible is Creator OS — it posts everywhere at once so you can focus on making things.\n\nGrab it: https://your-app.up.railway.app/go/megan-threads"
+      },
+      {
+        "overlay": "save this. then check my bio 🤍",
+        "thread": "Save this thread and come back to it in 90 days.\n\nAnd if you want the app I mentioned in tip 6 — Creator OS is in my bio: https://your-app.up.railway.app/go/megan-threads"
+      },
+      {
+        "overlay": "the app i run everything on is in my bio",
+        "thread": "Last thing: the app that runs my whole posting system is Creator OS. one upload, every platform.\n\nit's in my bio: https://your-app.up.railway.app/go/megan-threads"
+      },
+      {
+        "overlay": "save this. then grab the app in my bio 📌",
+        "thread": "Save this thread and run it for 90 days. the app that makes it effortless is Creator OS: https://your-app.up.railway.app/go/megan-threads"
+      },
+      {
+        "overlay": "posting takes me 20 minutes now. here's why",
+        "thread": "every tip above is easier when posting takes 20 minutes instead of your whole night. that's Creator OS: https://your-app.up.railway.app/go/megan-threads"
+      },
+      {
+        "overlay": "the tool that runs it all is in my bio",
+        "thread": "one more thing: the tool that runs my whole operation is Creator OS. every account, every platform, one upload.\n\ngrab it: https://your-app.up.railway.app/go/megan-threads"
+      },
+      {
+        "overlay": "run one tip a week. app's in my bio 📌",
+        "thread": "bookmark this and run one tip a week. the app that holds the whole system together is Creator OS: https://your-app.up.railway.app/go/megan-threads"
+      }
+    ]
+  },
+  "integration": {
+    "screenshot": ".claude/assets/brand/megan/screenshots/social-analytics.png",
+    "variants": [
+      {
+        "headline": "Put every account in ONE app",
+        "support": [
+          "I added all my accounts to CreatorOS so I upload to everything at the same time.",
+          "It saves me 3 hours a day."
+        ],
+        "thread": "6. Put every account in ONE app. I run all of mine through CreatorOS — one upload goes to every platform at the same time. It saves me 3 hours a day, every day."
+      },
+      {
+        "headline": "Stop uploading 5 times",
+        "support": [
+          "One post in CreatorOS goes to every platform at once.",
+          "That's 3 hours of my day back."
+        ],
+        "thread": "6. Stop uploading the same post 5 times. CreatorOS pushes one upload to every platform at once — that alone gave me back 3 hours a day."
+      },
+      {
+        "headline": "Your posting should take 5 minutes",
+        "support": [
+          "I schedule a whole week in CreatorOS in one sitting.",
+          "Every account, every platform, one app."
+        ],
+        "thread": "6. Posting should take 5 minutes, not your evening. I schedule the entire week in CreatorOS in one sitting — every account, every platform, one app."
+      },
+      {
+        "headline": "one upload, every platform",
+        "support": [
+          "i put all my accounts in Creator OS.",
+          "one upload hits every platform at once."
+        ],
+        "thread": "6. post everywhere at once. i run every account through Creator OS and one upload hits Instagram, TikTok, threads and more together. it's the biggest time-saver on this list."
+      },
+      {
+        "headline": "schedule the whole week in one sitting",
+        "support": [
+          "batch on sunday, schedule it all.",
+          "Creator OS posts it from the cloud."
+        ],
+        "thread": "6. schedule your whole week in one sitting. i batch on sunday, load Creator OS, and it posts everything on time whether i'm online or not. consistency stops being a willpower thing."
+      },
+      {
+        "headline": "your numbers in one place",
+        "support": [
+          "Creator OS pulls every platform's stats together.",
+          "one glance tells me what's working."
+        ],
+        "thread": "6. stop checking five apps for your numbers. Creator OS pulls views and followers from every platform into one view. one glance a week tells me exactly what to double down on."
+      },
+      {
+        "headline": "one tap runs the posting day",
+        "support": [
+          "every account lives in Creator OS.",
+          "one upload covers them all before coffee."
+        ],
+        "thread": "6. finish the posting part before coffee. every account i run lives in Creator OS, and one upload hits all of them at once. the whole chore is done in minutes."
+      },
+      {
+        "headline": "batch once, post all week",
+        "support": [
+          "load the week into Creator OS on sunday.",
+          "the cloud publishes on time, hands off."
+        ],
+        "thread": "6. put the week on autopilot. batch once, load the Creator OS calendar, and the cloud posts on time whether the laptop is open or not. consistency stops being a grind."
+      }
+    ]
+  },
+  "backgrounds": [
+    {
+      "prompt": "A young white woman with long glossy platinum-blonde hair in soft waves wearing an oversized cream knit sweater, photographed from behind a linen sofa over her shoulder — the camera sees the back of her head and her blonde waves, her face fully turned toward a laptop showing a softly glowing blurred dashboard, an iced matcha beside her, her fluffy grey-and-white Siberian husky asleep on the rug. Warm lamplight, plants, aesthetic living room, candid editorial lifestyle, creamy bokeh, shallow depth of field, photorealistic, subtle grain. Her face is never visible. No text, no captions, no watermark, no readable words on the screen."
+    },
+    {
+      "prompt": "A young white woman with long glossy platinum-blonde hair and a delicate silver heart necklace, photographed from directly behind the driver's seat of a sleek pink Porsche Macan SUV — the back of her head and shoulders, platinum waves over the seat, face fully turned toward the sunlit road and never visible, one hand on the wheel with exactly five natural fingers in a relaxed grip, iced matcha in the cupholder. Warm morning light, candid cinematic editorial, creamy bokeh, photorealistic, subtle grain. No face, no reflection of her face anywhere. No text, no captions, no watermark."
+    },
+    {
+      "prompt": "Close over-the-shoulder shot from behind a young white woman with long platinum-blonde waves in a {{OUTFIT}} knit, journaling at a marble kitchen counter in a bright minimalist kitchen — the frame shows her hands with correct anatomy (exactly five natural fingers per hand), an open notebook with indistinct handwriting, a latte, morning light; her fluffy grey-and-white Siberian husky looks up from the floor. Her face is out of frame and never visible. Bright airy editorial, creamy bokeh, shallow depth of field, photorealistic, subtle grain. No visible faces. No readable text anywhere in the scene, no captions, no watermark."
+    },
+    {
+      "prompt": "A young white woman with long glossy platinum-blonde hair in soft waves and a fitted {{OUTFIT}} matching workout set, photographed from behind mid-stretch on a reformer in a sunlit boutique Pilates studio — hanging plants, warm wood floors, her face fully turned away and never visible. Bright airy editorial wellness photography, creamy bokeh, shallow depth of field, photorealistic, subtle grain. No clearly visible faces anywhere in the frame. No text, no captions, no watermark."
+    },
+    {
+      "prompt": "A young white woman with long platinum-blonde waves wearing a {{OUTFIT}} hoodie, photographed from directly behind walking her fluffy grey-and-white Siberian husky with blue eyes along a tree-lined downtown Toronto street at golden hour — streetcar tracks and warm storefront lights softly blurred ahead, the dog trotting slightly ahead. The camera sees only her back and the back of her head; her face is never visible. Cinematic editorial lifestyle, creamy bokeh, warm filmic grade, photorealistic, subtle grain. No visible faces anywhere. No text, no captions, no watermark."
+    },
+    {
+      "prompt": "A young white woman with long glossy platinum-blonde hair in soft waves and a delicate silver heart necklace, seen from behind at a sunlit café window bar in a chic {{OUTFIT}} blazer, her face turned fully toward the window and never visible — a phone propped on a small tripod on the counter filming a latte beside an open laptop with a softly glowing blurred screen. Bright airy editorial, creamy bokeh, shallow depth of field, photorealistic, subtle grain. No clearly visible faces anywhere in the frame. No readable text anywhere, no captions, no watermark."
+    },
+    {
+      "prompt": "A young white woman with long platinum-blonde waves in an oversized cream knit, photographed from behind at a warm-lit desk at night, her face fully turned toward a single ordinary laptop showing a softly glowing blurred content-calendar grid — a candle, a small plant, polaroids pinned above the desk, her fluffy grey-and-white Siberian husky curled on a cushion beside the chair. Cozy candid editorial, creamy bokeh, shallow depth of field, photorealistic, subtle grain. Her face is never visible. No readable words on the screen, no text, no captions, no watermark."
+    },
+    {
+      "prompt": "A young white woman with long glossy platinum-blonde hair in soft loose waves, a delicate silver heart necklace and an oversized cream knit sweater, taking a cozy mirror selfie in front of a tall living-room mirror — her iPhone raised so it fully covers her entire face, warm lamplight, her fluffy grey-and-white Siberian husky at her feet, soft-focus city lights through the window. Candid editorial lifestyle, creamy bokeh, warm filmic grade, photorealistic, subtle grain. Her face is completely hidden behind the phone — no visible face, no face in any reflection. No text, no captions, no watermark."
+    }
+  ],
+  "series": [
+    {
+      "id": "new-creator-system",
+      "tips": [
+        {
+          "headline": "Commit to 100 Videos Before Judging Your Results",
+          "short": "post 100 videos first",
+          "support": [
+            "Most creators quit at 10 with no data. 100 posts gives you a real sample to learn from.",
+            "A large body of work lets you spot patterns, double down on what works, and ignore flukes."
+          ],
+          "thread": "1. Don't judge your content until you've posted 100 videos. Most creators quit at 10 — before they have enough data to learn anything. Commit to 100 first, then let the numbers tell you what to do next."
+        },
+        {
+          "headline": "Post 20 Videos, Then Let Data Choose Your Niche",
+          "short": "post 20, find top 20%",
+          "support": [
+            "Post 20 videos across your interests without pressure. Identify the top 20% performers.",
+            "Repeat the cycle 3x - now your data, not guesswork, defines your quality content."
+          ],
+          "thread": "2. Don't niche down before you have data. Post 20 videos on any of your interests. Find the top 20% performers. Do more of that. Repeat 3x. Your audience tells you what quality looks like — then build your brand around it."
+        },
+        {
+          "headline": "Reframe 200 Views as 200 People in a Room",
+          "short": "reframe small view counts",
+          "support": [
+            "200 views = 200 real humans who chose to watch you. That's a packed auditorium.",
+            "Stop measuring early posts by virality - measure by reach to real people."
+          ],
+          "thread": "3. Got 200 views and feel like quitting? Picture standing on a stage in front of 200 people who chose to be there. That's not a flop — that's a real audience. Keep going."
+        },
+        {
+          "headline": "Use the 5-Minute Rule to Kill Creator Paralysis",
+          "short": "commit to just five minutes",
+          "support": [
+            "Commit to only 5 minutes on a task before deciding to stop - 8 out of 10 times you'll finish it.",
+            "The hardest part of creating is starting; 5 minutes dismantles the perceived complexity."
+          ],
+          "thread": "4. Can't get yourself to film? Commit to just 5 minutes. Sit down, hit record, do one take. 8 out of 10 times you'll enter flow state and finish the whole session. The 5-minute rule beats motivation every single time."
+        },
+        {
+          "headline": "Shoot, Edit, and Post in Under 30 Minutes",
+          "short": "post in 30 minutes",
+          "support": [
+            "Constrain your production window so perfectionism can't stall you.",
+            "A tight time limit forces decisions and keeps your output consistent."
+          ],
+          "thread": "5. Give yourself a hard 30-minute limit to shoot, edit, and post. When the clock is running, perfectionism loses. This is how you post daily without content taking over your life."
+        },
+        {
+          "integration": true
+        },
+        {
+          "headline": "Master One Platform Before Expanding to Others",
+          "short": "dominate one platform first",
+          "support": [
+            "Pick one platform, study its algorithm, and grow there before going wide.",
+            "Spreading across platforms too early splits your focus and slows all growth."
+          ],
+          "thread": "7. In the beginning, one platform is plenty. Study how it works, learn what performs, and build an audience there first. Once you have momentum and systems, then expand. Spreading thin too early is the fastest way to grow nowhere fast."
+        },
+        {
+          "headline": "Create More Content Than You Consume Daily",
+          "short": "create more than you consume",
+          "support": [
+            "If you spend more time watching than making, you're training your taste - not your skills.",
+            "Set a simple rule: for every hour you consume, log at least one creative output."
+          ],
+          "thread": "8. Consumption is research until it becomes procrastination. If you're spending more time watching other creators than actually making content, flip the ratio. Create first, consume second. Your skills only grow from reps, not from watching someone else take them."
+        },
+        {
+          "headline": "Post the Video That Feels Off-Brand",
+          "short": "post the scary video",
+          "support": [
+            "Every plateau ends with a post that felt risky. Every level-up started with one too.",
+            "If an idea makes you hesitate because it 'doesn't fit,' that's your signal to film it."
+          ],
+          "thread": "9. Every creator plateau ends the same way: someone finally posts the video they almost deleted. The thing that got you to 10k won't get you to 100k. If an idea feels off-brand or a little scary, that's your signal — film it and post it this week."
+        },
+        {
+          "headline": "Make Yourself the Niche, Not a Topic",
+          "short": "you are the niche",
+          "support": [
+            "Pick 3 - 5 life areas as content pillars so your audience follows YOU, not a subject.",
+            "As you evolve, your content can shift - your audience stays because they're invested in you."
+          ],
+          "thread": "10. Every coach says pick a niche. Here's why that's wrong: when you evolve and want to create differently, a topic-based audience won't follow. Make YOURSELF the niche. Pick 3–5 life areas as pillars. Build an audience that follows you — not a subject."
+        }
+      ],
+      "stakes": {
+        "eyebrow": "READ THIS FIRST",
+        "headline": "Still under 1k views after months of posting?",
+        "support": [
+          "These 10 fixes are the ones that actually moved the needle."
+        ]
+      },
+      "reframe": {
+        "eyebrow": "THE SHIFT",
+        "headline": "You don't need talent. You need a sample size.",
+        "support": [
+          "Every tip below builds your data, not your ego."
+        ]
+      },
+      "proof": {
+        "screenshot": ".claude/assets/brand/megan/screenshots/client-dashboard.png",
+        "overlay": {
+          "kind": "caption",
+          "text": "this system, on one client's dashboard"
+        }
+      },
+      "recap_title": "The new-creator system:",
+      "caption": {
+        "instagram": "{{HOOK_LINE}}\n\nsave this — you'll need it on day 40 when motivation dips 🤍\n\nthe short version:\n📌 100 posts before you judge anything\n📌 let DATA pick your niche, not vibes\n📌 200 views = a packed room\n📌 one upload → every platform (tip 6)\n\nthe app from tip 6 is in my bio 📲\nfollow for daily marketing advice ✨",
+        "tiktok": "{{HOOK_LINE}}\n\nsave this for day 40 🤍 the app from tip 6 is in my bio 📲"
+      }
+    },
+    {
+      "id": "camera-confidence",
+      "tips": [
+        {
+          "headline": "Look Into the Lens, Not at Yourself",
+          "short": "eye contact with lens",
+          "support": [
+            "Staring at your own face on screen makes you perform; the lens is your viewer's eyes.",
+            "Use hands naturally, let your voice move, stay relaxed - stop performing, start conversing."
+          ],
+          "thread": "1. You cringe watching yourself back because talking to a lens isn't natural. Fix it fast: look INTO the lens, let your voice move like a real convo, use your hands, and drop the stiff posture. You look better on camera the second you stop performing."
+        },
+        {
+          "headline": "Treat the Camera Like a First-Date Conversation",
+          "short": "talk to one real person",
+          "support": [
+            "Picture a single real human on the other side - not an audience, just one person.",
+            "Share a win, a struggle, or a thought you were hesitant to say out loud."
+          ],
+          "thread": "2. Yapping to a camera gets easier when you stop performing for an audience and start talking to one real person. Picture a first date. Share a win, a struggle, or a thought you've been sitting on. That honesty is what makes people stay."
+        },
+        {
+          "headline": "Hold an Object On Camera to Reduce Stiffness",
+          "short": "hold something on camera",
+          "support": [
+            "A pen, cup, or phone gives your hands a job and stops nervous fidgeting instantly.",
+            "Doing a simple task - pouring coffee, making a salad - also creates a visual anchor that keeps viewers watching."
+          ],
+          "thread": "3. Feeling stiff on camera? Hold something — a pen, a cup, your phone. It gives your hands a job and kills nervous energy. Do a simple task while you talk and you've also got a visual anchor that keeps people watching longer."
+        },
+        {
+          "headline": "Exaggerate Pronunciation Once Before Every Recording",
+          "short": "over-pronounce before filming",
+          "support": [
+            "Run your script once with exaggerated mouth movement before hitting record.",
+            "This drills the mind-to-mouth connection and sharpens articulation instantly."
+          ],
+          "thread": "4. Before every recording, run your script once with wildly exaggerated pronunciation. Overwork your mouth on every syllable. Then hit record — your delivery will be noticeably sharper and more articulate without any extra editing."
+        },
+        {
+          "headline": "Watch Your First Take to Fix Weak Sounds",
+          "short": "review first take critically",
+          "support": [
+            "Play back your first recorded attempt and note every sound or word you muffled or rushed.",
+            "Target those exact sounds in your warm-up next session and you'll hear a clear improvement immediately."
+          ],
+          "thread": "5. After your very first take, hit play and listen for the sounds and words you stumbled on. Write them down. Target those exact spots in your next warm-up. One focused review session will make your next recording noticeably cleaner."
+        },
+        {
+          "integration": true
+        },
+        {
+          "headline": "Use Tone and Tempo as Your Two Delivery Levers",
+          "short": "vary tone and tempo",
+          "support": [
+            "Tone = pitch height. Tempo = your pacing. Flat on both = forgettable delivery.",
+            "Treat your script like a song: put weight on key words, vary speed between lines."
+          ],
+          "thread": "7. Two variables separate forgettable creators from magnetic ones: tone (how your pitch rises and falls) and tempo (how you pace between words). Flat on both = flat content. Treat your script like a song and put weight on the right words."
+        },
+        {
+          "headline": "Add Pauses and Accents to Guide Listener Attention",
+          "short": "pause and accent key words",
+          "support": [
+            "A pause before a key word works like punctuation - it signals the brain to pay attention.",
+            "Layer in a stressed accent on that word and you create rhythmic flow that keeps viewers hooked."
+          ],
+          "thread": "8. Your ideas aren't the problem — your delivery is. Add a pause before your key word and stress that word when you say it. That combo tells the viewer's brain exactly where to focus. No pause, no accent = run-on that people scroll past."
+        },
+        {
+          "headline": "Voice the 2AM Thought Your Viewer Won't Say Aloud",
+          "short": "say what they can't admit",
+          "support": [
+            "Say the exact thing your viewer is too scared to admit - the dream, the fear, the unspoken frustration.",
+            "When your content mirrors their inner world precisely, they stop watching you and start seeing themselves."
+          ],
+          "thread": "9. You don't want viewers. You want people who feel seen. So stop teaching at them and start living inside their world. Say the thing they think at 2am but won't admit to anyone. Name the car they secretly dream about. The moment your content reflects their inner life back at them, they follow for life."
+        },
+        {
+          "headline": "Record Three Reps Back-to-Back for Flow State",
+          "short": "do three recording reps",
+          "support": [
+            "Film 3 takes in a row without stopping - the third is almost always your best.",
+            "Post take 2 as a trial reel and take 3 on your main feed: two pieces of content, one session."
+          ],
+          "thread": "10. Don't film once and stop. Do 3 reps back-to-back to hit a flow state. Post rep 2 as a trial reel and rep 3 on your main feed. That's 2 pieces of content in about 30 minutes with zero extra effort."
+        }
+      ],
+      "stakes": {
+        "eyebrow": "READ THIS FIRST",
+        "headline": "Freeze up the second the camera turns on?",
+        "support": [
+          "Delivery is a skill. These 10 drills build it fast."
+        ]
+      },
+      "reframe": {
+        "eyebrow": "THE SHIFT",
+        "headline": "Confidence isn't a trait. It's reps.",
+        "support": [
+          "Every tip below is a drill you can run today."
+        ]
+      },
+      "proof": {
+        "screenshot": ".claude/assets/brand/megan/screenshots/client-dashboard.png",
+        "overlay": {
+          "kind": "caption",
+          "text": "what better delivery did for one client"
+        }
+      },
+      "recap_title": "The camera-confidence drills:",
+      "caption": {
+        "instagram": "{{HOOK_LINE}}\n\nif the camera makes you freeze, save this 🤍\n\nquick version:\n📌 look at the LENS, not yourself\n📌 talk to one person, not an audience\n📌 your third take is always the best\n📌 tip 6 = how I post everything I film in minutes\n\nthe app from tip 6 is in my bio 📲✨",
+        "tiktok": "{{HOOK_LINE}}\n\ncamera shy? save these drills 🤍 the app from tip 6 is in my bio 📲"
+      }
+    },
+    {
+      "id": "growth-mechanics",
+      "tips": [
+        {
+          "headline": "Open Every Video With a Question or Unfinished Idea",
+          "short": "open with unfinished loop",
+          "support": [
+            "Your viewer's brain can't disengage from an unresolved question - use that in the first 10 seconds.",
+            "Lead with a list, a question, or a cliffhanger. Resolve it only at the end."
+          ],
+          "thread": "1. Your brain hates unfinished business — that's why you obsess over the text that never came back. Use it. In the first 10 seconds of every video, open with a question, a numbered list, or a cliffhanger idea. Your viewer physically cannot leave until it's resolved. Hook is architecture, not decoration."
+        },
+        {
+          "headline": "Write Captions Like SEO, Not a Hashtag Dump",
+          "short": "use keywords not hashtags",
+          "support": [
+            "Instagram now favors keyword-rich captions over stuffed hashtags to determine who sees your post.",
+            "Write captions that clearly signal your topic and target viewer - think search terms, not tags."
+          ],
+          "thread": "2. Hashtag stuffing is dead on Instagram. The algorithm now reads your caption like a search engine. Write keyword-rich captions that clearly signal your topic and who it's for. Think SEO, not tag strategy — your words do the distribution work now."
+        },
+        {
+          "headline": "Use Trial Reels to Test Hooks Before Going Wide",
+          "short": "test hooks with trial reels",
+          "support": [
+            "Trial reels show your content to non-followers - use them to A/B test hooks and editing styles.",
+            "IG limits how often you can use them, so post only original content and make each test count."
+          ],
+          "thread": "3. Trial reels are Instagram's built-in testing lab. They push your content to non-followers so you can test hooks, CTAs, and editing styles with zero risk to your main audience. Find what works, then scale it to regular posts."
+        },
+        {
+          "headline": "Add Music to Carousels for Reels Tab Reach",
+          "short": "add music to carousels",
+          "support": [
+            "Carousels with music can land on the Reels tab, dramatically expanding your non-follower reach.",
+            "Balance carousels with regular Reels in your posting schedule for maximum distribution."
+          ],
+          "thread": "4. A simple carousel hack: add music and it can land on the Reels tab, putting your content in front of people who don't follow you yet. Pair carousels with regular Reels in your schedule and you're hitting two discovery surfaces at once."
+        },
+        {
+          "headline": "Export at 1080p 30fps With These CapCut Adjustments",
+          "short": "export settings for sharpness",
+          "support": [
+            "After editing, set brightness +5, contrast +5, saturation +5, and sharpen to 30.",
+            "Export at 1080p / 30fps - 60fps is only worth it if you need slow-motion footage."
+          ],
+          "thread": "5. Before you export, go into your editing app's adjust panel and set brightness to 5, contrast to 5, saturation to 5, and sharpness to 30. Then export at 1080p and 30fps. 60fps looks cool but you don't need it unless you're shooting slow-mo. These four tweaks alone sharpen up phone footage fast."
+        },
+        {
+          "integration": true
+        },
+        {
+          "headline": "Fix Your Lighting With Lamps You Already Own",
+          "short": "reposition existing room lighting",
+          "support": [
+            "Same phone, same angle, same camera - just repositioning a bedroom lamp changes everything.",
+            "You don't need studio lights; you need to pay attention to where your light source sits."
+          ],
+          "thread": "7. Lighting can make or break your video — and you don't need to buy anything. Same phone, same angle, same room: just move a bedroom lamp in front of you instead of leaving the overhead on. Paying a little attention to your light source makes a huge visible difference."
+        },
+        {
+          "headline": "Use the 7x7 Method to Crack Trends",
+          "short": "analyze 49 trend videos",
+          "support": [
+            "Pick 7 creators, pull their 7 best reels, study all 49 for cadence, hooks, and framing.",
+            "Remix the format with your own pillars - algorithm-friendly AND authority-building."
+          ],
+          "thread": "8. Stop blindly copying trends. Pick 7 creators, grab their 7 best reels, and study all 49. Look for hook style, pacing, static vs dynamic shots, and text layering. Then remix the format using your own content pillars. You get the algorithm boost without losing your brand."
+        },
+        {
+          "headline": "Swap the Hook to Refresh a Flagged Reel",
+          "short": "change hook, repost reel",
+          "support": [
+            "Meta has relaxed duplicate detection - changing just the hook is usually enough to repost a trial reel.",
+            "If it still gets flagged, reorder a few clips or swap the audio before retesting."
+          ],
+          "thread": "9. If a trial reel gets flagged as a duplicate, you don't need to rebuild it from scratch. Changing just the hook is usually enough now that Meta has relaxed its duplicate detection. Still flagged? Reorder a few clips or swap the audio. Test, don't trash."
+        },
+        {
+          "headline": "Diagnose Weak Metrics With This One-Line Fix",
+          "short": "read metrics as feedback",
+          "support": [
+            "Low shares = content isn't relatable. Low saves = content isn't practical enough.",
+            "Match each weak metric to one specific fix before you shoot your next video."
+          ],
+          "thread": "10. Your metrics are a diagnostic tool. Low views = weak hook. Low shares = not relatable. Low comments = no question asked. Low saves = not practical. Low likes = no emotion. Low followers = unclear vision. Fix one at a time."
+        }
+      ],
+      "stakes": {
+        "eyebrow": "READ THIS FIRST",
+        "headline": "Good content, dead reach? It's mechanics, not luck.",
+        "support": [
+          "10 platform levers most new creators never touch."
+        ]
+      },
+      "reframe": {
+        "eyebrow": "THE SHIFT",
+        "headline": "The algorithm isn't against you. It's unread.",
+        "support": [
+          "Learn its levers and it becomes your distribution team."
+        ]
+      },
+      "proof": {
+        "screenshot": ".claude/assets/brand/megan/screenshots/client-dashboard.png",
+        "overlay": {
+          "kind": "caption",
+          "text": "the receipts from playing it right"
+        }
+      },
+      "recap_title": "The growth levers:",
+      "caption": {
+        "instagram": "{{HOOK_LINE}}\n\nthe platform is a machine — here's the manual 🤍\n\nquick version:\n📌 captions are SEO now, not hashtag dumps\n📌 trial reels = free A/B tests\n📌 music on carousels unlocks the Reels tab\n📌 tip 6 = one upload, every platform\n\nthe app from tip 6 is in my bio 📲✨",
+        "tiktok": "{{HOOK_LINE}}\n\nthe algorithm manual nobody gave you 🤍 tip 6's app is in my bio 📲"
+      }
+    },
+    {
+      "id": "content-machine",
+      "tips": [
+        {
+          "headline": "Protect a 90-Minute Deep Work Block Daily",
+          "short": "lock in 90-minute block",
+          "support": [
+            "Pick a consistent time each day and guard it from every distraction - no exceptions.",
+            "Even on chaotic days, completing this one block ensures meaningful forward progress."
+          ],
+          "thread": "1. Pick one 90-minute window each day and make it non-negotiable. No meetings, no notifications, no exceptions. Even on your worst, most distracted days, finishing this single block guarantees real progress. Consistency at a small scale beats heroic effort twice a week."
+        },
+        {
+          "headline": "Find Your Peak Window for Deep Content Work",
+          "short": "schedule shoots at peak energy",
+          "support": [
+            "Everyone has a 1.5 - 3 hour natural focus window - identify yours and protect it for filming.",
+            "Burning your peak window on scrolling or email kills your best creative output."
+          ],
+          "thread": "2. You have a 1.5–3 hour peak focus window every day. Find it, protect it, and use it exclusively for your hardest creative work — scripting, filming, editing. Everything else can wait. Most creators waste their best hours on busywork."
+        },
+        {
+          "headline": "Use Content Pockets to Film Throughout Your Day",
+          "short": "film in time pockets",
+          "support": [
+            "Map your day: 20 min free = brainstorm, gym commute = B-roll, full hour = full edit.",
+            "No single block needed - string micro-sessions together to finish a video by midnight."
+          ],
+          "thread": "3. You don't need a free afternoon to make content. 20 minutes free? Brainstorm ideas. Heading to the gym? Shoot B-roll. Got a full hour after work? Edit and finish. Stack micro-sessions throughout your day and a complete video gets made without a single dedicated block."
+        },
+        {
+          "headline": "Dedicate One Hour to Film 15 Versatile Scenes",
+          "short": "one-hour b-roll session",
+          "support": [
+            "Capture desk work, fitness, lifestyle, and creative clips - each filmed from 3 angles.",
+            "Label and store by scene so you always have visuals ready to drop into any video."
+          ],
+          "thread": "4. You don't need to film every day. Spend one focused hour shooting 15 versatile scenes — desk work, stretches, walking outside, making coffee. Film each from multiple angles. Store clips by scene in a folder. That one session can supply a full month of b-roll."
+        },
+        {
+          "headline": "Film Every B-Roll Scene From Three Different Angles",
+          "short": "vary angles per scene",
+          "support": [
+            "Shoot each clip as a close-up, wide shot, and over-the-shoulder so you always have edit options.",
+            "More angle variety per scene means one filming session covers far more future posts."
+          ],
+          "thread": "5. Every time you film b-roll, shoot each scene from at least three angles — close-up, wide shot, over-the-shoulder. One session at your desk or outdoors suddenly gives you a dozen usable clips instead of three. More angles per scene = more posts per hour of filming."
+        },
+        {
+          "integration": true
+        },
+        {
+          "headline": "Post Every Day Without Creating Every Day",
+          "short": "repurpose to post daily",
+          "support": [
+            "Batch-create once, then repurpose that content across the week so you never miss a day.",
+            "You don't need new ideas daily - you need a system that multiplies what you already made."
+          ],
+          "thread": "7. You don't have to CREATE every day to POST every day. Batch one piece of content, then repurpose it across formats and platforms all week. The goal is a system, not a grind."
+        },
+        {
+          "headline": "Keep Content Flowing With the 3 R's System",
+          "short": "repost, repurpose, ready content",
+          "support": [
+            "Repost top performers, repurpose existing clips into new formats, and pull from batched content.",
+            "This three-part loop keeps your feed active without requiring you to create from scratch daily."
+          ],
+          "thread": "8. Never run dry on content. Work the 3 R's: Repost your top performers, Repurpose existing content into new formats, and pull from content you've already batched and have Ready to go. Consistency doesn't require constant creation."
+        },
+        {
+          "headline": "Run a 7-Day Content Rotation Every Single Week",
+          "short": "use the 7-day content rotation",
+          "support": [
+            "Day 1: hot take. Day 2: how-to. Day 3: BTS. Day 4: trend with your spin.",
+            "Day 5: mistake/lesson. Day 6: listicle. Day 7: your personal story."
+          ],
+          "thread": "9. Stop guessing what to post. Rotate these 7 content types each week: hot take → how-to breakdown → BTS moment → trend with your spin → mistake or lesson → listicle → personal story. Every base covered, every audience need served."
+        },
+        {
+          "headline": "Apply Parkinson's Law to Every Content Task",
+          "short": "set strict content deadlines",
+          "support": [
+            "Assign a hard time limit to each task - work expands to fill whatever time you give it.",
+            "Cap your filming or editing session to force faster, cleaner decisions."
+          ],
+          "thread": "10. Work expands to fill the time you give it. Set a strict deadline for every content task — filming, editing, captioning. A 30-min cap beats an open-ended 3-hour session every time. Parkinson's Law is your hidden productivity hack."
+        }
+      ],
+      "stakes": {
+        "eyebrow": "READ THIS FIRST",
+        "headline": "Posting daily is easy. Creating daily is the trap.",
+        "support": [
+          "This is the batching system that ends the daily scramble."
+        ]
+      },
+      "reframe": {
+        "eyebrow": "THE SHIFT",
+        "headline": "You don't need more hours. You need a machine.",
+        "support": [
+          "Build it once, feed it weekly."
+        ]
+      },
+      "proof": {
+        "screenshot": ".claude/assets/brand/megan/screenshots/client-dashboard.png",
+        "overlay": {
+          "kind": "caption",
+          "text": "what a content machine looks like in numbers"
+        }
+      },
+      "recap_title": "The content machine:",
+      "caption": {
+        "instagram": "{{HOOK_LINE}}\n\nthe system that ended my daily content scramble 🤍\n\nquick version:\n📌 90-min protected block, daily\n📌 1 hour = 15 scenes, 3 angles each\n📌 post daily WITHOUT creating daily\n📌 tip 6 = scheduling it all in 5 minutes\n\nthe app from tip 6 is in my bio 📲✨",
+        "tiktok": "{{HOOK_LINE}}\n\nbatch once, post all week 🤍 tip 6's app is in my bio 📲"
+      }
+    }
+  ],
+  "hashtags": [
+    "#ugccreator",
+    "#contentcreatortips",
+    "#socialmediatips",
+    "#marketingtips",
+    "#creatoreconomy",
+    "#growyouraccount",
+    "#contentstrategy",
+    "#creatoros"
+  ],
+  "prompt_suffix": "Jewelry and accessories: at most ONE watch or bracelet, worn on one wrist only — NEVER a watch on each wrist, never duplicated accessories. Correct human anatomy, exactly five natural fingers per visible hand.",
+  "parked_hooks_until_1k_followers": [
+    {
+      "headline": "this account did 250K views in its FIRST WEEK. here is the system.",
+      "thread_intro": "My first week on this account: 250,000 views and my first 200 followers, starting from zero. You are looking at the receipts right now.\n\nSame system I run for my clients. The 10 tips that did it 🧵",
+      "caption_line": "week one: 250K views from zero. the system is not a secret 💅",
+      "insets": [
+        {
+          "prompt": "A full-bleed screenshot filling the ENTIRE image edge-to-edge, NOT shown inside a phone mockup, no phone frame, no bezel, no background margins. Realistic Threads (by Instagram) interface, sharp legible UI text, bright and clean, no visible faces anywhere, no watermark. The Threads profile page of 'megan.creatoros': round avatar photo of a blonde woman from behind (no visible face), name 'Megan', '200 followers' under the bio, bio line 'content systems for creators ✨', a row of recent text posts below, clean white Threads UI.",
+          "widthFrac": 0.42
+        },
+        {
+          "prompt": "A full-bleed screenshot filling the ENTIRE image edge-to-edge, NOT shown inside a phone mockup, no phone frame, no bezel, no background margins. Realistic Threads (by Instagram) interface, sharp legible UI text, bright and clean, no visible faces anywhere, no watermark. A Threads insights screen: header 'Views', huge stat '250,000' with subtitle 'Last 7 days', a rising daily bar chart below with the final bars tallest, small '+ from 0' growth pill, clean white analytics UI. The 250,000 number is large and clearly legible.",
+          "widthFrac": 0.42
+        },
+        {
+          "prompt": "A full-bleed screenshot filling the ENTIRE image edge-to-edge, NOT shown inside a phone mockup, no phone frame, no bezel, no background margins. Realistic Threads (by Instagram) interface, sharp legible UI text, bright and clean, no visible faces anywhere, no watermark. A Threads insights followers screen: big stat '200 followers', subtitle 'First 7 days', a steep rising line chart starting at 0, date labels along the bottom, clean white analytics UI.",
+          "widthFrac": 0.42
+        }
+      ]
+    },
+    {
+      "headline": "250,000 views in week one. the receipts are one tap away.",
+      "thread_intro": "People doubt client results, fair. So check THIS account: 250,000 views and 200 followers in its first week, starting from zero. The receipts are one tap away.\n\nMy 10 steps, in order 🧵",
+      "caption_line": "doubt the client numbers all you want. this account IS the receipt 🧾",
+      "insets": [
+        {
+          "prompt": "A full-bleed screenshot filling the ENTIRE image edge-to-edge, NOT shown inside a phone mockup, no phone frame, no bezel, no background margins. Realistic Threads (by Instagram) interface, sharp legible UI text, bright and clean, no visible faces anywhere, no watermark. The Threads profile page of 'megan.creatoros': round avatar photo of a blonde woman from behind (no visible face), name 'Megan', '200 followers' under the bio, bio line 'grew this in one week with one system 📌', recent text posts below, clean white Threads UI.",
+          "widthFrac": 0.42
+        },
+        {
+          "prompt": "A full-bleed screenshot filling the ENTIRE image edge-to-edge, NOT shown inside a phone mockup, no phone frame, no bezel, no background margins. Realistic Threads (by Instagram) interface, sharp legible UI text, bright and clean, no visible faces anywhere, no watermark. A side-by-side Threads insights comparison card: left panel labeled 'Day 1' showing '0 followers · 0 views', right panel labeled 'Day 7' showing '200 followers · 250,000 views', both in clean white analytics UI with small rising charts. All numbers large and clearly legible.",
+          "widthFrac": 0.42
+        },
+        {
+          "prompt": "A full-bleed screenshot filling the ENTIRE image edge-to-edge, NOT shown inside a phone mockup, no phone frame, no bezel, no background margins. Realistic Threads (by Instagram) interface, sharp legible UI text, bright and clean, no visible faces anywhere, no watermark. A Threads insights screen: header 'Views', huge stat '250,000' with subtitle 'Last 7 days', a rising daily bar chart, a small pill reading 'Top post 115K', clean white analytics UI.",
+          "widthFrac": 0.42
+        }
+      ]
+    }
+  ]
+}

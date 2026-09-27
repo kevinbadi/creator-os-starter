@@ -1,0 +1,925 @@
+{
+  "clips_dir": ".claude/assets/reaction-clips",
+  "before_labels": [
+    "me on day 1",
+    "my accounts before",
+    "where I started"
+  ],
+  "after_labels": [
+    "6 months later",
+    "same accounts now",
+    "fast forward 6 months"
+  ],
+  "final_labels": [
+    "the app: Creator OS (link in bio)",
+    "Creator OS - link in bio",
+    "it's called Creator OS"
+  ],
+  "beats": {
+    "card": 2,
+    "before": 2,
+    "after": 2,
+    "final": 4,
+    "reveal": 2,
+    "payoff": 2,
+    "min_text_seconds": 3,
+    "mega": 4
+  },
+  "hashtags": [
+    "#ugccreator",
+    "#contentcreator",
+    "#socialmediamanager",
+    "#creatortips",
+    "#creatoros"
+  ],
+  "personas": {
+    "megan": {
+      "sound_gender": "female",
+      "before": ".claude/assets/brand/megan/screenshots/social-analytics-before.png",
+      "after": ".claude/assets/brand/megan/screenshots/social-analytics.png",
+      "final": ".claude/assets/brand/megan/screenshots/client-dashboard.png",
+      "captions": {
+        "instagram": [
+          "the exact moment I found out one app posts everywhere at once 😳 the app is in my bio 🤍",
+          "POV: you stop uploading to 6 apps one by one and get 3 hours of your day back 🤍 app in bio",
+          "day 1 vs 6 months — the only thing that changed is in my bio 🤍",
+          "i connected my clients instagram, tiktok, youtube AND facebook in one app and now their whole week basically posts itself 🤍 app in bio",
+          "being a ugc girl got 10x easier when i stopped logging into 6 apps per client 😳 every platform lives in one dashboard now 🤍 bio",
+          "POV: you manage client socials and every account (ig, tt, yt, fb) is connected in ONE app 🤍 the app is in my bio",
+          "my clients think i hired a team. i just connected all their platforms to one app and it posts everywhere for me 🤍 app in bio"
+        ],
+        "tiktok": [
+          "the app that changed everything is in my bio 📲",
+          "3 hours a day back. app in bio 📲",
+          "day 1 → 6 months. the app is in my bio 📲",
+          "connected my clients ig, tiktok, yt + fb in one app 😳 ugc life has never been easier. app in bio 📲",
+          "every client platform in ONE dashboard. this is why i never miss a post 📲 app in bio",
+          "ugc girls: stop logging into 6 apps per client. the app in my bio connects them all 📲"
+        ]
+      },
+      "clips": [
+        {
+          "name": "megan-double-take.mp4",
+          "url": "https://your-project.us-east.insforge.app/api/storage/buckets/media/objects/reaction-clips-megan-megan-double-take-v2.mp4"
+        },
+        {
+          "name": "megan-frozen-blink.mp4",
+          "url": "https://your-project.us-east.insforge.app/api/storage/buckets/media/objects/reaction-clips-megan-megan-frozen-blink%20(1).mp4"
+        },
+        {
+          "name": "megan-jawdrop-cheeks.mp4",
+          "url": "https://your-project.us-east.insforge.app/api/storage/buckets/media/objects/reaction-clips-megan-megan-jawdrop-cheeks%20(1).mp4"
+        },
+        {
+          "name": "megan-peek-fingers.mp4",
+          "url": "https://your-project.us-east.insforge.app/api/storage/buckets/media/objects/reaction-clips-megan-megan-peek-fingers%20(1).mp4"
+        },
+        {
+          "name": "megan-skeptic-squint.mp4",
+          "url": "https://your-project.us-east.insforge.app/api/storage/buckets/media/objects/reaction-clips-megan-megan-skeptic-squint%20(1).mp4"
+        },
+        {
+          "name": "megan-gag-paint.mp4",
+          "url": "https://your-project.us-east.insforge.app/api/storage/buckets/media/objects/reaction-clips-megan-megan-gag-paint-v2.mp4"
+        },
+        {
+          "name": "megan-gag-flour.mp4",
+          "url": "https://your-project.us-east.insforge.app/api/storage/buckets/media/objects/reaction-clips-megan-megan-gag-flour-v1.mp4"
+        },
+        {
+          "name": "megan-gag-powder.mp4",
+          "url": "https://your-project.us-east.insforge.app/api/storage/buckets/media/objects/reaction-clips-megan-megan-gag-powder-v2.mp4"
+        }
+      ]
+    },
+    "danny": {
+      "sound_gender": "male",
+      "before": ".claude/assets/brand/danny/screenshots/social-analytics-before.png",
+      "after": ".claude/assets/brand/danny/screenshots/social-analytics-danny.png",
+      "final": ".claude/assets/brand/danny/screenshots/post-analytics.png",
+      "captions": {
+        "instagram": [
+          "the moment I realized I'd been uploading to 6 apps manually for no reason. app in bio 📲",
+          "day 1 vs now — same accounts, one app. it's in my bio 📲",
+          "got 3 hours of my day back with one download. bio 📲",
+          "connected every client account (instagram, tiktok, youtube, facebook) to one dashboard. the agency basically runs itself 📲 app in bio",
+          "managing socials for clients used to eat my whole day. now every platform is connected in one app and it posts everywhere 📲 bio",
+          "one login. every client. every platform. this is the whole operation 📲 app in bio"
+        ],
+        "tiktok": [
+          "one app, every platform. bio 📲",
+          "day 1 → now. the app is in my bio 📲",
+          "stop uploading 6 times. app in bio 📲",
+          "every client platform connected in one app. ig, tt, yt, fb. done 📲 bio",
+          "stopped juggling 6 logins per client. one dashboard posts everywhere 📲 app in bio",
+          "the whole client roster runs from one app 📲 bio"
+        ]
+      },
+      "clips": [
+        {
+          "name": "danny-head-in-hand.mp4",
+          "url": "https://your-project.us-east.insforge.app/api/storage/buckets/media/objects/reaction-clips-danny-danny-head-in-hand%20(1).mp4"
+        },
+        {
+          "name": "danny-lean-back.mp4",
+          "url": "https://your-project.us-east.insforge.app/api/storage/buckets/media/objects/reaction-clips-danny-danny-lean-back%20(1).mp4"
+        },
+        {
+          "name": "danny-shaker-choke.mp4",
+          "url": "https://your-project.us-east.insforge.app/api/storage/buckets/media/objects/reaction-clips-danny-danny-shaker-choke.mp4"
+        }
+      ]
+    },
+    "creatoros": {
+      "sound_gender": "any",
+      "before": ".claude/assets/brand/megan/screenshots/social-analytics-before.png",
+      "after": ".claude/assets/brand/megan/screenshots/social-analytics.png",
+      "final": ".claude/assets/brand/megan/screenshots/client-dashboard.png",
+      "clips": [
+        {
+          "name": "asain girl reaction.mp4",
+          "url": "https://your-project.us-east.insforge.app/api/storage/buckets/media/objects/reaction-clips-creatoros-asain-girl-reaction.mp4"
+        },
+        {
+          "name": "black guy reaction w slmo (great).mp4",
+          "url": "https://your-project.us-east.insforge.app/api/storage/buckets/media/objects/reaction-clips-creatoros-black-guy-reaction-w-slmo-great-.mp4"
+        },
+        {
+          "name": "blonde ponytail reaction .mp4",
+          "url": "https://your-project.us-east.insforge.app/api/storage/buckets/media/objects/reaction-clips-creatoros-blonde-ponytail-reaction-.mp4"
+        },
+        {
+          "name": "blonde reaction slomo .mp4",
+          "url": "https://your-project.us-east.insforge.app/api/storage/buckets/media/objects/reaction-clips-creatoros-blonde-reaction-slomo-.mp4"
+        },
+        {
+          "name": "blonde-guy-cap-facepalm.mp4",
+          "url": "https://your-project.us-east.insforge.app/api/storage/buckets/media/objects/reaction-clips-creatoros-blonde-guy-cap-facepalm.mp4"
+        },
+        {
+          "name": "curly-redhead-gasp-laugh.mp4",
+          "url": "https://your-project.us-east.insforge.app/api/storage/buckets/media/objects/reaction-clips-creatoros-curly-redhead-gasp-laugh.mp4"
+        },
+        {
+          "name": "ginger omg reaction.mp4",
+          "url": "https://your-project.us-east.insforge.app/api/storage/buckets/media/objects/reaction-clips-creatoros-ginger-omg-reaction.mp4"
+        },
+        {
+          "name": "korean-girl-bolt-upright.mp4",
+          "url": "https://your-project.us-east.insforge.app/api/storage/buckets/media/objects/reaction-clips-creatoros-korean-girl-bolt-upright.mp4"
+        },
+        {
+          "name": "latino-beard-brow-grin.mp4",
+          "url": "https://your-project.us-east.insforge.app/api/storage/buckets/media/objects/reaction-clips-creatoros-latino-beard-brow-grin.mp4"
+        },
+        {
+          "name": "locs-side-eye-noway.mp4",
+          "url": "https://your-project.us-east.insforge.app/api/storage/buckets/media/objects/reaction-clips-creatoros-locs-side-eye-noway.mp4"
+        },
+        {
+          "name": "messy-bun-cry-laugh.mp4",
+          "url": "https://your-project.us-east.insforge.app/api/storage/buckets/media/objects/reaction-clips-creatoros-messy-bun-cry-laugh.mp4"
+        },
+        {
+          "name": "reaction vid 1.mp4",
+          "url": "https://your-project.us-east.insforge.app/api/storage/buckets/media/objects/reaction-clips-creatoros-reaction-vid-1.mp4"
+        }
+      ]
+    },
+    "kev": {
+      "sound_gender": "male",
+      "before": ".claude/assets/brand/danny/screenshots/social-analytics-before.png",
+      "after": ".claude/assets/brand/danny/screenshots/social-analytics-danny.png",
+      "final": ".claude/assets/brand/danny/screenshots/post-analytics.png",
+      "captions": {
+        "instagram": [
+          "i built the app that posts to every platform at once. this is what it looks like 📲 bio",
+          "making content about the app i use to make content 📲 creator os in bio",
+          "every platform, one upload. i use my own app every day 📲 bio"
+        ],
+        "tiktok": [
+          "i use my own app to run this account 📲 creator os in bio",
+          "one upload, every platform. built it, use it daily 📲 bio",
+          "the app in my bio runs this whole page 📲"
+        ]
+      },
+      "clips": []
+    }
+  },
+  "angles": [
+    {
+      "id": "post-everywhere",
+      "lines": [
+        {
+          "hook": "when you find out ONE app can post to ALL your socials at once",
+          "card": "as a creator, I can't believe I never knew this existed"
+        },
+        {
+          "hook": "me finding out I've been uploading to 6 apps manually for NO reason",
+          "card": "one app. every platform. same second."
+        },
+        {
+          "hook": "POV: you learn your TikTok, IG, YouTube and X can share ONE upload button",
+          "card": "why did nobody tell me sooner"
+        },
+        {
+          "hook": "when someone asks how I'm on every platform every single day",
+          "card": "it's one upload. that's the whole secret."
+        },
+        {
+          "hook": "me realizing cross-posting was never supposed to be manual",
+          "card": "connect every account once. post everywhere forever."
+        },
+        {
+          "hook": "when your last excuse for skipping YouTube Shorts disappears",
+          "card": "if it's going on TikTok, it's going everywhere"
+        },
+        {
+          "hook": "finding out the 'everywhere creators' aren't working 6x harder",
+          "card": "they press one button. that's it."
+        },
+        {
+          "hook": "when you see your post go live on 6 platforms at the same minute",
+          "card": "still not over this honestly"
+        },
+        {
+          "hook": "me discovering my whole distribution problem was one download",
+          "card": "the app does the running around"
+        },
+        {
+          "hook": "when 'be on every platform' stops being advice and becomes a button",
+          "card": "one tap. all of them."
+        }
+      ],
+      "captions": {
+        "instagram": [
+          "creators keep having this exact moment 😳 one upload in Creator OS posts to every platform at once — link in bio",
+          "the moment a creator finds out they never had to upload 6 times 💀 Creator OS — link in bio",
+          "every platform. one upload. Creator OS — link in bio 📲"
+        ],
+        "tiktok": [
+          "one upload. every platform. Creator OS — link in bio 📲",
+          "the 6-apps-a-day era is over 💀 Creator OS in bio",
+          "every creator has this moment eventually 📲 link in bio"
+        ]
+      },
+      "reveal": "an app that manages all your socials at once",
+      "broll": "post-all-platforms",
+      "payoff": "this saves me hours every day",
+      "payoff_broll": "content-calendar"
+    },
+    {
+      "id": "time-saved",
+      "lines": [
+        {
+          "hook": "when you realize posting content was eating 3 HOURS of your day",
+          "card": "I got my evenings back with one app"
+        },
+        {
+          "hook": "me finding out I could get 15 hours a week back",
+          "card": "that's a whole part-time job returned"
+        },
+        {
+          "hook": "POV: your entire posting routine now takes 5 minutes",
+          "card": "what am I supposed to do with all this free time"
+        },
+        {
+          "hook": "when the thing that took all night now takes one coffee",
+          "card": "post, schedule, done. before the coffee's cold."
+        },
+        {
+          "hook": "me learning 'content admin' was never supposed to be a job",
+          "card": "the app does the admin. I just create."
+        },
+        {
+          "hook": "when you find out top creators spend MINUTES posting, not hours",
+          "card": "the grind was optional the whole time"
+        },
+        {
+          "hook": "me after cutting my posting time by 90 percent",
+          "card": "same content. fraction of the time."
+        },
+        {
+          "hook": "when uploading stops being the reason you're up at 1am",
+          "card": "sleep is a feature now"
+        },
+        {
+          "hook": "finding out the busiest creators automate the boring half",
+          "card": "create in the morning. the app posts all day."
+        },
+        {
+          "hook": "when 3 hours of clicking becomes 3 minutes of scheduling",
+          "card": "run the math on a year of that"
+        }
+      ],
+      "captions": {
+        "instagram": [
+          "creators get ~3 hours a day back the moment they switch 😳 Creator OS — link in bio",
+          "posting shouldn't be a part-time job. Creator OS gives the hours back — link in bio",
+          "5 minutes of scheduling replaces 3 hours of uploading. Creator OS — bio 📲"
+        ],
+        "tiktok": [
+          "3 hours a day back 📲 Creator OS — link in bio",
+          "posting in 5 minutes, not 3 hours. link in bio",
+          "the grind was optional 💀 Creator OS in bio"
+        ]
+      },
+      "reveal": "this app just gave me back the 3 hours a day i spent posting",
+      "broll": "post-all-platforms",
+      "payoff": "i post once and im done for the day",
+      "payoff_broll": "content-calendar"
+    },
+    {
+      "id": "consistency",
+      "lines": [
+        {
+          "hook": "when you find out how 'post every day' creators NEVER miss a day",
+          "card": "they schedule the week once. the app never forgets."
+        },
+        {
+          "hook": "me learning consistency is a system, not a personality trait",
+          "card": "the app posts even when motivation doesn't show up"
+        },
+        {
+          "hook": "POV: you discover streaks are built by software, not willpower",
+          "card": "day 90 feels easy when it's automatic"
+        },
+        {
+          "hook": "when your posting streak survives your worst week",
+          "card": "sick days don't break the schedule anymore"
+        },
+        {
+          "hook": "me finding out the algorithm rewards the app, err, 'my discipline'",
+          "card": "daily posts. zero missed. one scheduler."
+        },
+        {
+          "hook": "when you stop choosing between a life and a posting schedule",
+          "card": "batch Sunday. the app handles Monday to Saturday."
+        },
+        {
+          "hook": "finding out consistent creators aren't more disciplined than you",
+          "card": "they just stopped relying on memory"
+        },
+        {
+          "hook": "when 'I forgot to post' stops being a sentence you say",
+          "card": "the calendar remembers so I don't have to"
+        },
+        {
+          "hook": "me watching my page post itself while I'm at dinner",
+          "card": "consistency without being chained to the phone"
+        },
+        {
+          "hook": "when your 90-day streak is actually a 90-day schedule",
+          "card": "set it once. let it run."
+        }
+      ],
+      "captions": {
+        "instagram": [
+          "the consistent creators aren't more disciplined — they schedule once and Creator OS never misses. link in bio",
+          "streaks are a system 😳 Creator OS keeps the calendar so creators keep the life — link in bio",
+          "90 straight days of posting, zero willpower required. Creator OS — bio 📲"
+        ],
+        "tiktok": [
+          "consistency is a scheduler, not a personality 📲 link in bio",
+          "never miss a posting day again. Creator OS in bio",
+          "the streak keeps itself 💀 Creator OS — bio"
+        ]
+      },
+      "reveal": "this app schedules my whole week so i never miss a day again",
+      "broll": "content-calendar",
+      "payoff": "i havent missed a day since"
+    },
+    {
+      "id": "schedule-week",
+      "lines": [
+        {
+          "hook": "when you find out a WEEK of content can be scheduled in 5 minutes",
+          "card": "Sunday me takes care of the whole week"
+        },
+        {
+          "hook": "me scheduling 21 posts before my toast pops",
+          "card": "the week is done. it's Monday, 9am."
+        },
+        {
+          "hook": "POV: your content calendar fills itself for 7 days straight",
+          "card": "one sitting. one coffee. one week handled."
+        },
+        {
+          "hook": "when 'what should I post today' becomes a question you never ask",
+          "card": "the calendar already knows"
+        },
+        {
+          "hook": "me finding out batching + scheduling beats daily scrambling",
+          "card": "create once a week. publish every day."
+        },
+        {
+          "hook": "when your vacation posts itself",
+          "card": "two weeks in Europe. the page never noticed."
+        },
+        {
+          "hook": "finding out the 'always online' creators schedule everything",
+          "card": "they're offline. the calendar isn't."
+        },
+        {
+          "hook": "when Sunday-you becomes the manager and weekday-you just lives",
+          "card": "best hire I ever made"
+        },
+        {
+          "hook": "me dropping a month of content into the calendar in one night",
+          "card": "30 days handled. brain officially off."
+        },
+        {
+          "hook": "when the content calendar stops being a Pinterest fantasy",
+          "card": "it's real and it runs itself"
+        }
+      ],
+      "captions": {
+        "instagram": [
+          "a week of content, scheduled in one sitting 😳 Creator OS — link in bio",
+          "Sunday planning, Monday-to-Saturday freedom. Creator OS — link in bio",
+          "creators schedule 21 posts before breakfast with Creator OS 📲 bio"
+        ],
+        "tiktok": [
+          "a week of posts in 5 minutes 📲 Creator OS — bio",
+          "schedule Sunday. live the rest. link in bio",
+          "the calendar runs itself 💀 Creator OS in bio"
+        ]
+      },
+      "reveal": "i just scheduled 7 days of content in one sitting with this app",
+      "broll": "content-calendar",
+      "payoff": "my whole week done in 20 minutes"
+    },
+    {
+      "id": "client-experience",
+      "lines": [
+        {
+          "hook": "when your client asks how you post for them EVERYWHERE overnight",
+          "card": "one dashboard. all their accounts. zero chaos."
+        },
+        {
+          "hook": "me showing a client their analytics across every platform in one screen",
+          "card": "closed the retainer on the spot"
+        },
+        {
+          "hook": "POV: you manage 3 clients' socials and none of them can tell",
+          "card": "every account. one app. no dropped balls."
+        },
+        {
+          "hook": "when the client thinks you have a team behind you",
+          "card": "it's me and one dashboard"
+        },
+        {
+          "hook": "me finding out agencies charge thousands for what one app does",
+          "card": "my clients get agency service at freelancer speed"
+        },
+        {
+          "hook": "when your client's page grows and they think you're a wizard",
+          "card": "the wizardry is a scheduling dashboard"
+        },
+        {
+          "hook": "finding out client reporting takes one screenshot now",
+          "card": "every platform's numbers on one screen"
+        },
+        {
+          "hook": "when onboarding a new client takes 10 minutes, not 10 days",
+          "card": "connect their accounts. start posting. done."
+        },
+        {
+          "hook": "me juggling 5 clients without a single missed post",
+          "card": "the app is the project manager"
+        },
+        {
+          "hook": "when 'we need daily posts on all platforms' stops being scary",
+          "card": "sure. give me 5 minutes."
+        }
+      ],
+      "captions": {
+        "instagram": [
+          "the freelancers beating agencies are running everything through one dashboard 😳 Creator OS — link in bio",
+          "clients think it's a team. it's one person with Creator OS 💀 link in bio",
+          "every client, every platform, one screen. Creator OS — bio 📲"
+        ],
+        "tiktok": [
+          "clients think it's a whole team 💀 Creator OS in bio",
+          "5 clients. zero missed posts. link in bio",
+          "agency service, one-person speed 📲 bio"
+        ]
+      },
+      "reveal": "one app runs every account i manage from a single dashboard",
+      "broll": "home-screen-scroll",
+      "payoff": "my clients think i have a whole team",
+      "payoff_broll": "content-calendar"
+    },
+    {
+      "id": "make-it",
+      "lines": [
+        {
+          "hook": "when you realize the thing holding you back wasn't talent",
+          "card": "it was posting logistics. fixed."
+        },
+        {
+          "hook": "me finding out 'making it' is mostly showing up everywhere daily",
+          "card": "the app shows up. I make the content."
+        },
+        {
+          "hook": "POV: the app that finally made social media feel possible",
+          "card": "actually helping me make it out here"
+        },
+        {
+          "hook": "when growth starts the month you stop missing posts",
+          "card": "turns out the algorithm just wanted consistency"
+        },
+        {
+          "hook": "me realizing small creators lose to logistics, not to talent",
+          "card": "handle the logistics and you're dangerous"
+        },
+        {
+          "hook": "when your first viral post comes from your 47th scheduled one",
+          "card": "volume finds the winner. the app kept the volume."
+        },
+        {
+          "hook": "finding out every platform is a lottery ticket you weren't buying",
+          "card": "now every post enters 6 draws"
+        },
+        {
+          "hook": "when the dream stops dying in the upload screen",
+          "card": "create. schedule. let it compound."
+        },
+        {
+          "hook": "me watching the follower graph bend after 60 automated days",
+          "card": "the boring system did the exciting thing"
+        },
+        {
+          "hook": "when 'aspiring creator' quietly becomes 'creator'",
+          "card": "the difference was a posting system"
+        }
+      ],
+      "captions": {
+        "instagram": [
+          "talent was never the problem — logistics was 😳 Creator OS handles the logistics. link in bio",
+          "every post on every platform is another lottery ticket 🎟️ Creator OS buys them all — link in bio",
+          "the boring system does the exciting thing 📈 Creator OS — bio"
+        ],
+        "tiktok": [
+          "logistics were the ceiling 💀 Creator OS in bio",
+          "volume finds the winner 📈 link in bio",
+          "from aspiring to actual. Creator OS — bio 📲"
+        ]
+      },
+      "reveal": "this app just deleted every excuse i had about posting",
+      "broll": "post-types",
+      "payoff": "posting is the easiest part of my day now",
+      "payoff_broll": "home-screen-scroll"
+    },
+    {
+      "id": "no-team",
+      "lines": [
+        {
+          "hook": "when people ask about your 'team' and it's literally one app",
+          "card": "me, the camera, and Creator OS"
+        },
+        {
+          "hook": "me finding out I didn't need to hire a social media manager",
+          "card": "the app IS the social media manager"
+        },
+        {
+          "hook": "POV: you run a one-person media company from your phone",
+          "card": "staff of one. output of ten."
+        },
+        {
+          "hook": "when the agency quote says $2,000/month and the app says otherwise",
+          "card": "kept the money. kept the control."
+        },
+        {
+          "hook": "me realizing big pages are small teams with good systems",
+          "card": "sometimes the team is zero people"
+        },
+        {
+          "hook": "when your 'marketing department' fits in your pocket",
+          "card": "payroll: one subscription"
+        },
+        {
+          "hook": "finding out solo creators can out-post entire brand teams",
+          "card": "systems beat headcount"
+        },
+        {
+          "hook": "when you fire the imaginary team you thought you needed",
+          "card": "one dashboard took the whole job"
+        },
+        {
+          "hook": "me doing the work of a scheduler, analyst and assistant by tapping once",
+          "card": "job titles: retired"
+        },
+        {
+          "hook": "when 'I need help posting' becomes 'I need better tools'",
+          "card": "got the tool. problem gone."
+        }
+      ],
+      "captions": {
+        "instagram": [
+          "the 'team' behind your favorite creator is often one app 😳 Creator OS — link in bio",
+          "systems beat headcount. one creator + Creator OS out-posts whole teams — link in bio",
+          "marketing department in your pocket 📲 Creator OS — bio"
+        ],
+        "tiktok": [
+          "the team is one app 💀 Creator OS in bio",
+          "staff of one, output of ten 📲 bio",
+          "systems beat headcount. link in bio"
+        ]
+      },
+      "reveal": "this app does what i thought i needed a whole team for",
+      "broll": "post-all-platforms",
+      "payoff": "its just me and this app",
+      "payoff_broll": "content-calendar"
+    },
+    {
+      "id": "analytics",
+      "lines": [
+        {
+          "hook": "when you see ALL your platforms' numbers on one screen",
+          "card": "no more tab-hopping at midnight"
+        },
+        {
+          "hook": "me finding out which platform actually grows me in 10 seconds",
+          "card": "the answer was YouTube the whole time??"
+        },
+        {
+          "hook": "POV: your analytics stop being 6 different apps' bad news",
+          "card": "one dashboard. the whole story."
+        },
+        {
+          "hook": "when the heatmap shows exactly when your people scroll",
+          "card": "posting blind is officially over"
+        },
+        {
+          "hook": "me catching a post popping off on a platform I forgot I posted to",
+          "card": "that's why you're everywhere"
+        },
+        {
+          "hook": "when 'what's working' stops being a feeling and becomes a chart",
+          "card": "double down with receipts"
+        },
+        {
+          "hook": "finding out your best posting time was 8pm, not 8am",
+          "card": "one graph fixed six months of guessing"
+        },
+        {
+          "hook": "me watching all six follower counts in one glance",
+          "card": "morning check-in: 10 seconds"
+        },
+        {
+          "hook": "when the numbers finally live where the posting happens",
+          "card": "see it, learn it, schedule the next one"
+        },
+        {
+          "hook": "POV: your whole social presence fits on one screen",
+          "card": "and the screen says: growing"
+        }
+      ],
+      "captions": {
+        "instagram": [
+          "every platform's numbers on ONE screen 😳 Creator OS — link in bio",
+          "'what's working' shouldn't be a feeling. Creator OS makes it a chart — link in bio",
+          "six follower counts, one glance 📊 Creator OS — bio"
+        ],
+        "tiktok": [
+          "all your numbers, one screen 📊 Creator OS in bio",
+          "stop posting blind 💀 link in bio",
+          "the whole story in one dashboard 📲 bio"
+        ]
+      },
+      "reveal": "this app shows every platforms numbers on one screen",
+      "broll": "post-analytics",
+      "payoff": "i finally know what actually works"
+    },
+    {
+      "id": "trending-sounds",
+      "lines": [
+        {
+          "hook": "when you find out the app hands you trending sounds every morning",
+          "card": "no more doom-scrolling 'for research'"
+        },
+        {
+          "hook": "me learning trending audio is basically free reach",
+          "card": "ride the wave the day it forms"
+        },
+        {
+          "hook": "POV: your posts catch sounds while they're still climbing",
+          "card": "early on the sound, early on the algorithm"
+        },
+        {
+          "hook": "when 'how do you always find the sounds' has a boring answer",
+          "card": "there's a feed for it. inside the app."
+        },
+        {
+          "hook": "me finding out timing a trend is a feature, not a talent",
+          "card": "the app watches TikTok so I don't have to"
+        },
+        {
+          "hook": "when your carousel rides a trending sound to the Reels tab",
+          "card": "pictures. music. reach. unlocked."
+        },
+        {
+          "hook": "finding out the sound picks itself while you sleep",
+          "card": "wake up, schedule, ride the trend"
+        },
+        {
+          "hook": "when trend-hunting goes from 2 hours to 2 taps",
+          "card": "scroll less. post more."
+        },
+        {
+          "hook": "me catching a sound 3 days before my niche does",
+          "card": "early is the whole game"
+        },
+        {
+          "hook": "when your content calendar and the trend cycle finally sync",
+          "card": "right sound, right time, every time"
+        }
+      ],
+      "captions": {
+        "instagram": [
+          "trending sounds, served daily inside the app 😳 Creator OS — link in bio",
+          "early on the sound = early on the algorithm 🎵 Creator OS — link in bio",
+          "the app watches the trends so creators don't have to. Creator OS — bio 📲"
+        ],
+        "tiktok": [
+          "trending sounds on tap 🎵 Creator OS in bio",
+          "catch the sound before your niche does 📈 bio",
+          "trend-hunting in 2 taps. link in bio"
+        ]
+      },
+      "reveal": "this app hands me trending sounds before they blow up",
+      "broll": "post-types",
+      "payoff": "my views doubled since i started using it",
+      "payoff_broll": "post-analytics"
+    },
+    {
+      "id": "burnout",
+      "lines": [
+        {
+          "hook": "when posting stops running your entire life",
+          "card": "creator burnout wasn't the content. it was the admin."
+        },
+        {
+          "hook": "me getting my weekends back without my page noticing",
+          "card": "the schedule kept posting. I kept living."
+        },
+        {
+          "hook": "POV: you take a real day off and nothing falls apart",
+          "card": "the app doesn't take days off, so I can"
+        },
+        {
+          "hook": "when the 1am upload panic becomes a Sunday afternoon habit",
+          "card": "calm is a workflow"
+        },
+        {
+          "hook": "me realizing I was one tool away from actually enjoying this",
+          "card": "creating is fun again when posting is automatic"
+        },
+        {
+          "hook": "when 'always on' becomes 'always scheduled'",
+          "card": "same presence. none of the pressure."
+        },
+        {
+          "hook": "finding out the creators who last are the ones who automate",
+          "card": "longevity is a system too"
+        },
+        {
+          "hook": "when your phone stops owning your evenings",
+          "card": "posts go out. phone stays down."
+        },
+        {
+          "hook": "me quitting the content hamster wheel without quitting content",
+          "card": "off the wheel. still shipping."
+        },
+        {
+          "hook": "when burnout meets a batch-and-schedule workflow",
+          "card": "burnout lost"
+        }
+      ],
+      "captions": {
+        "instagram": [
+          "creator burnout was never the content — it was the admin 😳 Creator OS deletes the admin. link in bio",
+          "take the day off. the schedule doesn't. Creator OS — link in bio",
+          "same presence, none of the pressure 🧘 Creator OS — bio"
+        ],
+        "tiktok": [
+          "the admin was the burnout 💀 Creator OS in bio",
+          "days off that don't break the page 📲 bio",
+          "off the hamster wheel, still shipping. link in bio"
+        ]
+      },
+      "reveal": "this app took over all the posting admin that was burning me out",
+      "broll": "content-calendar",
+      "payoff": "content stopped feeling like a chore"
+    }
+  ],
+  "vague_hooks": [
+    "OMG I CANT BELIEVE THIS 😭",
+    "no bc why did nobody tell me this",
+    "I'M SO MAD I JUST FOUND OUT",
+    "wait. WAIT.",
+    "this is actually insane i'm not okay",
+    "not me finding this out in 2026 😭",
+    "I CANT BE THE ONLY ONE WHO DIDNT KNOW",
+    "i just found out and i'm shaking",
+    "why was i today years old when i learned this",
+    "ive been making content for 4 years and ive just found this...",
+    "4 years of posting every single day and nobody told me about this",
+    "ive managed socials since 2022 and just now found out..."
+  ],
+  "clips_preferred": [
+    "asain girl"
+  ],
+  "clips_preferred_weight": 0.7,
+  "broll_dir": ".claude/assets/broll",
+  "broll": {
+    "home-screen-scroll": {
+      "file": "home-screen-scroll.mov",
+      "url": "https://your-project.us-east.insforge.app/api/storage/buckets/media/objects/broll-home-screen-scroll.mov"
+    },
+    "post-all-platforms": {
+      "file": "post-all-platforms.mov",
+      "url": "https://your-project.us-east.insforge.app/api/storage/buckets/media/objects/broll-post-all-platforms.mov"
+    },
+    "post-types": {
+      "file": "post-types.mov",
+      "url": "https://your-project.us-east.insforge.app/api/storage/buckets/media/objects/broll-post-types.mov"
+    },
+    "post-analytics": {
+      "file": "post-analytics.mov",
+      "url": "https://your-project.us-east.insforge.app/api/storage/buckets/media/objects/broll-post-analytics-v2.mov"
+    },
+    "content-calendar": {
+      "file": "content-calendar.mov",
+      "url": "https://your-project.us-east.insforge.app/api/storage/buckets/media/objects/broll-content-calendar.mov"
+    }
+  },
+  "mega_payoffs": {
+    "female": [
+      "creator os changed my life as a creator",
+      "this changed my career as a creator",
+      "creator os took me from posting whenever to posting like a brand",
+      "i quit my 9 to 5 because of creator os",
+      "creator os turned my little hobby into my whole career",
+      "i went from 200 followers to full time creator with creator os",
+      "creator os is why brands take me seriously now",
+      "my first brand deal came 3 weeks after i got creator os",
+      "creator os made me the girl whose feed never misses",
+      "i run my whole creator business from creator os",
+      "creator os took me from burnt out to booked out",
+      "my content pays my rent now thanks to creator os",
+      "creator os made me a marketing manager not a wannabe",
+      "creator os gave me my evenings back and doubled my growth",
+      "i manage 4 client accounts alone because of creator os",
+      "creator os is the reason i finally went viral",
+      "from ghost town page to daily dms since creator os",
+      "creator os made consistency my whole personality",
+      "i built a 6 figure creator business on creator os",
+      "creator os turned my camera roll into a content machine",
+      "my clients think i have a team but its just creator os",
+      "creator os took my page from 48 followers to my full time job",
+      "i stopped chasing trends because creator os brings them to me",
+      "creator os is my social media manager and it never sleeps",
+      "creator os made me the creator i used to watch"
+    ],
+    "male": [
+      "this changed my career as a creator",
+      "creator os changed my life as a creator",
+      "creator os made me a marketing manager wannabe to a marketing manager millionaire",
+      "creator os took me from broke creator to booked operator",
+      "i fired my excuses the day i got creator os",
+      "creator os runs my content while i run my business",
+      "from 173 followers to full time creator because of creator os",
+      "creator os is why i post daily on 6 platforms solo",
+      "my agency runs on creator os and a laptop",
+      "creator os turned posting from a chore into a system",
+      "i scaled to 5 clients with zero staff on creator os",
+      "creator os made my content a machine not a maybe",
+      "quit my day job 4 months after getting creator os",
+      "creator os is the whole marketing team i never hired",
+      "my first 10k month came from being everywhere with creator os",
+      "creator os took me from lurker to landing brand deals",
+      "i went from ignored to invoiced because of creator os",
+      "creator os made consistency my unfair advantage",
+      "built a 6 figure content business on creator os",
+      "creator os gave me back 3 hours a day and 10x the reach",
+      "every platform every day zero burnout thanks to creator os",
+      "creator os is why my numbers finally match my effort",
+      "from wannabe marketing manager to actual marketing manager creator os did that",
+      "creator os turned one upload into a whole distribution engine",
+      "creator os is the best hire i never made"
+    ]
+  },
+  "finale_broll": "post-analytics",
+  "vague_hooks_female": [
+    "girl… GIRL.",
+    "bestie you are NOT ready for this",
+    "girls who post content, sit down for this"
+  ],
+  "vague_hooks_male": [
+    "bro. BRO.",
+    "nah there is no way this is real",
+    "fellas who post content, you need to see this"
+  ]
+}

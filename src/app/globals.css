@@ -1,0 +1,368 @@
+@import "tailwindcss";
+
+/* Class-based dark mode (ThemeToggle). Without this, Tailwind `dark:` still
+   follows prefers-color-scheme and fights the manual toggle. */
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  --background: #f4f5f7;
+  --foreground: #171717;
+  /* Light mode: soft paper page, white cards. */
+  --surface-1: #ffffff;
+  --surface-2: #fafafa;
+  --surface-3: #eef0f3;
+  --line: rgba(0, 0, 0, 0.08);
+  --line-strong: rgba(0, 0, 0, 0.14);
+  --muted: #6b7280;
+  --muted-2: #9ca3af;
+  --accent: #2dd4bf;
+  --accent-ink: #0f766e;
+  color-scheme: light;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  --font-serif: var(--font-instrument-serif);
+}
+
+.dark {
+  /* "Lit graphite" (2026-07-25): the page is a soft warm graphite and every
+     card sits ABOVE it — brighter surface, crisper border — instead of the
+     old near-black cards that receded INTO a brighter body. Kevin's
+     standing ask: brighter blacks, keep the teal + heatmaps. */
+  /* 2026-09-14 "brighten it up a bit" (Kevin): whole ladder lifted one
+     step, borders + muted text a touch brighter, aurora stronger. */
+  --background: #24272c;
+  --foreground: #f4f5f7;
+  --surface-1: #2c2f35; /* cards */
+  --surface-2: #333740; /* raised panels */
+  --surface-3: #3d424b; /* chips / wells */
+  --line: rgba(255, 255, 255, 0.13);
+  --line-strong: rgba(255, 255, 255, 0.22);
+  --muted: #c3c7ce;
+  --muted-2: #8e939d;
+  --accent-ink: #8ff2e2;
+  color-scheme: dark;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-geist-sans), system-ui, sans-serif;
+  font-feature-settings: "ss01", "cv11";
+}
+
+/* Light atmosphere: quiet dot grid on paper. */
+body {
+  background:
+    radial-gradient(rgba(0, 0, 0, 0.035) 1px, transparent 1px) 0 0 / 22px 22px,
+    var(--background);
+  background-attachment: fixed;
+}
+
+/* Dark-mode atmosphere (2026-09-14 pass): the teal aurora stays, plus a
+   whisper of a dot grid so the graphite reads like a drafting table rather
+   than a flat fill. Data is still the loudest thing on screen. */
+.dark body {
+  background:
+    radial-gradient(rgba(255, 255, 255, 0.05) 1px, transparent 1px) 0 0 / 22px 22px,
+    var(--background);
+  background-attachment: fixed;
+}
+/* Living aurora: two teal/blue lobes drift on a slow loop behind the page.
+   Fixed, non-interactive, GPU transform only. */
+.dark body::before {
+  content: "";
+  position: fixed;
+  inset: -20% -10% auto -10%;
+  height: 70vh;
+  pointer-events: none;
+  z-index: 0;
+  background:
+    radial-gradient(900px 420px at 22% 30%, rgba(45, 212, 191, 0.13), transparent 62%),
+    radial-gradient(760px 460px at 84% 12%, rgba(94, 130, 255, 0.085), transparent 60%);
+  animation: aurora 26s ease-in-out infinite alternate;
+  will-change: transform;
+}
+.dark body > * { position: relative; z-index: 1; }
+
+.dark * {
+  scrollbar-width: thin;
+  scrollbar-color: #3d4148 transparent;
+}
+
+/* ───────────────────────── card system ─────────────────────────
+   One surface treatment for every dashboard card: hairline border from the
+   token ladder, a 1px top-light, and a soft drop so it sits ABOVE the page.
+   Titles: `.card-title` is the Instrument Serif italic signature, `.eyebrow`
+   the tiny tracked caps used for meta labels. */
+.card {
+  position: relative;
+  border-radius: 14px;
+  border: 1px solid var(--line);
+  background: var(--surface-1);
+  padding: 1rem;
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.7),
+    0 8px 24px -14px rgba(0, 0, 0, 0.12);
+}
+
+.dark .card {
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.075),
+    0 12px 30px -14px rgba(0, 0, 0, 0.6);
+}
+/* Legacy cards that still carry the raw surface-1 utility get the same lift. */
+.dark [class*="dark:bg-[var(--surface-1)]"]:not(.card) {
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.07),
+    0 8px 24px -12px rgba(0, 0, 0, 0.55);
+}
+
+.card {
+  transition: transform 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
+}
+.card:hover {
+  border-color: var(--line-strong);
+  transform: translateY(-1px);
+}
+
+/* One-shot specular sheen across the KPI band on load. */
+.sheen { overflow: hidden; }
+.sheen::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: linear-gradient(105deg, transparent 35%, rgba(255, 255, 255, 0.07) 50%, transparent 65%);
+  transform: translateX(-120%);
+  animation: sheen 1.6s cubic-bezier(0.2, 0.7, 0.1, 1) 0.5s 1 forwards;
+}
+
+/* Heatmap / calendar cells settle in; delay is set inline per cell. */
+.cell-in { animation: cell-in 0.5s cubic-bezier(0.2, 0.7, 0.1, 1) both; }
+
+/* SVG lines draw themselves (set pathLength="1" on the element). */
+.draw {
+  stroke-dasharray: 1;
+  stroke-dashoffset: 1;
+  animation: draw 1.2s cubic-bezier(0.2, 0.7, 0.1, 1) 0.3s forwards;
+}
+.fade-in { animation: fade-in 0.8s ease 0.9s both; }
+
+/* Today's cell: a soft teal halo that breathes very slowly (one element only). */
+.glow-today { animation: glow 3.2s ease-in-out infinite; }
+
+@keyframes aurora {
+  from { transform: translate3d(-3%, 0, 0) scale(1); }
+  to   { transform: translate3d(3%, 4%, 0) scale(1.06); }
+}
+@keyframes sheen { to { transform: translateX(120%); } }
+/* from-only keyframes: the animation lands on each element's OWN opacity
+   (out-of-month cells keep their dimming, the trend area keeps its 12%). */
+@keyframes cell-in {
+  from { opacity: 0; transform: scale(0.85); }
+}
+@keyframes draw { to { stroke-dashoffset: 0; } }
+@keyframes fade-in { from { opacity: 0; } }
+@keyframes glow {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(45, 212, 191, 0.0), 0 0 0 2px #2dd4bf inset; }
+  50%      { box-shadow: 0 0 14px 2px rgba(45, 212, 191, 0.45), 0 0 0 2px #2dd4bf inset; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  body::before, .sheen::after, .cell-in, .draw, .glow-today { animation: none; }
+  .draw { stroke-dashoffset: 0; }
+}
+
+.card-title {
+  font-family: var(--font-instrument-serif), Georgia, serif;
+  font-style: italic;
+  font-size: 19px;
+  line-height: 1;
+  letter-spacing: -0.01em;
+}
+
+.eyebrow {
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--muted-2);
+}
+
+.num {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Hairline rule with a teal tick — used under section heads. */
+.rule {
+  height: 1px;
+  background: linear-gradient(90deg, var(--accent) 0 28px, var(--line) 28px);
+}
+
+/* Page-load choreography: every direct child of a .stagger rises in turn. */
+.stagger > * {
+  animation: rise 0.7s cubic-bezier(0.2, 0.7, 0.1, 1) both;
+}
+.stagger > *:nth-child(1) { animation-delay: 0.02s; }
+.stagger > *:nth-child(2) { animation-delay: 0.08s; }
+.stagger > *:nth-child(3) { animation-delay: 0.14s; }
+.stagger > *:nth-child(4) { animation-delay: 0.2s; }
+.stagger > *:nth-child(5) { animation-delay: 0.26s; }
+.stagger > *:nth-child(6) { animation-delay: 0.32s; }
+
+@media (prefers-reduced-motion: reduce) {
+  .stagger > * { animation: none; }
+}
+
+@keyframes marquee {
+  from { transform: translate3d(0, 0, 0); }
+  to { transform: translate3d(-50%, 0, 0); }
+}
+
+.marquee-track {
+  animation: marquee 50s linear infinite;
+}
+
+@keyframes rise {
+  from { opacity: 0; transform: translate3d(0, 14px, 0); }
+  to   { opacity: 1; transform: translate3d(0, 0, 0); }
+}
+
+.rise {
+  animation: rise 0.9s cubic-bezier(0.2, 0.7, 0.1, 1) both;
+}
+
+@keyframes pulse-dot {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(45, 212, 191, 0.55); }
+  70% { box-shadow: 0 0 0 6px rgba(45, 212, 191, 0); }
+}
+.live-dot {
+  animation: pulse-dot 2.4s ease-out infinite;
+}
+
+/* Agent Posts: working card journey */
+@keyframes agent-orbit {
+  to { transform: rotate(360deg); }
+}
+@keyframes agent-orbit-rev {
+  to { transform: rotate(-360deg); }
+}
+@keyframes agent-sheen {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+@keyframes agent-say-in {
+  from { opacity: 0; transform: translate3d(0, 6px, 0); }
+  to { opacity: 1; transform: translate3d(0, 0, 0); }
+}
+
+.agent-post-flash > article {
+  box-shadow: 0 0 0 2px rgba(45, 212, 191, 0.7);
+  transition: box-shadow 0.3s ease;
+}
+.agent-post-working {
+  position: relative;
+  isolation: isolate;
+}
+.agent-post-working::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  padding: 1px;
+  background: linear-gradient(
+    120deg,
+    rgba(45, 212, 191, 0.55),
+    rgba(45, 212, 191, 0.08),
+    rgba(94, 130, 255, 0.28),
+    rgba(45, 212, 191, 0.45)
+  );
+  background-size: 220% 220%;
+  animation: agent-sheen 4.5s ease-in-out infinite;
+  -webkit-mask:
+    linear-gradient(#000 0 0) content-box,
+    linear-gradient(#000 0 0);
+  mask:
+    linear-gradient(#000 0 0) content-box,
+    linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  pointer-events: none;
+  z-index: 1;
+}
+
+.agent-loader {
+  position: relative;
+  width: 52px;
+  height: 52px;
+}
+.agent-loader::before,
+.agent-loader::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 9999px;
+  border: 2px solid transparent;
+}
+.agent-loader::before {
+  border-top-color: #2dd4bf;
+  border-right-color: rgba(45, 212, 191, 0.35);
+  animation: agent-orbit 1.1s linear infinite;
+}
+.agent-loader::after {
+  inset: 7px;
+  border-bottom-color: rgba(143, 242, 226, 0.85);
+  border-left-color: rgba(94, 130, 255, 0.35);
+  animation: agent-orbit-rev 1.7s linear infinite;
+}
+.agent-loader-core {
+  position: absolute;
+  inset: 17px;
+  border-radius: 9999px;
+  background: rgba(45, 212, 191, 0.85);
+  box-shadow: 0 0 14px rgba(45, 212, 191, 0.45);
+  animation: pulse-dot 2s ease-out infinite;
+}
+
+.agent-say {
+  animation: agent-say-in 0.45s cubic-bezier(0.2, 0.7, 0.1, 1) both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .agent-post-working::before,
+  .agent-loader::before,
+  .agent-loader::after,
+  .agent-loader-core,
+  .agent-say {
+    animation: none;
+  }
+}
+
+@keyframes shake {
+  0%, 100% { transform: translate3d(0, 0, 0); }
+  20% { transform: translate3d(-1.5px, 0, 0); }
+  40% { transform: translate3d(1.5px, 0, 0); }
+  60% { transform: translate3d(-1px, 0, 0); }
+  80% { transform: translate3d(1px, 0, 0); }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .goal-slip-shake {
+    animation: shake 0.5s ease-in-out 1;
+  }
+}
+
+.grain {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.5;
+  mix-blend-mode: multiply;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='240'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.06 0'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+}

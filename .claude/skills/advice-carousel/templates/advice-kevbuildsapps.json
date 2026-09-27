@@ -1,0 +1,869 @@
+{
+  "topic_prefix": "Creator growth advice",
+  "content_pillar": "founder-automation",
+  "visual_pillar": "advice",
+  "identity_anchor": "Kev, founder of Creator OS",
+  "bank_vars": {
+    "OUTFIT": "outfits"
+  },
+  "banks": {
+    "outfits": [
+      "all-black",
+      "charcoal-grey",
+      "cream-knit",
+      "olive",
+      "navy"
+    ],
+    "hooks": [
+      {
+        "headline": "his boss gave the page 90 days. it took 60.",
+        "thread_intro": "A gym coach on our first beta had 90 days to grow the gym page or hand it off. It hit 40,000 followers in 60, and his classes filled three weeks out.\n\nI watched every post go through the app. His 10 best moves 🧵",
+        "caption_line": "90 day deadline. done in 60. watched it happen from the backend"
+      },
+      {
+        "headline": "she bet her boss the page could fill the studio by summer",
+        "thread_intro": "A pilates instructor using Creator OS bet her boss the page could fill classes by summer. Day 70: 35,000 followers and a waitlist for the 6am slot.\n\nEverything she ran, in order. 10 tips 🧵",
+        "caption_line": "she won the bet with 20 days to spare 🤭"
+      },
+      {
+        "headline": "the cafe gave social one quarter to matter. line out the door.",
+        "thread_intro": "A cafe owner gave social media one quarter to prove it could fill seats, or the account was done. By week ten: 60,000 followers and a line out the door on weekends.\n\nThe exact playbook the account ran 🧵",
+        "caption_line": "one quarter to prove it. week ten did it"
+      },
+      {
+        "headline": "a barber told me his chair had 90 days left",
+        "thread_intro": "A barber told me his chair had 90 days before the shop cut it. He rebuilt his page from 1,100 followers and hit 30,000 in eight weeks. Bookings closed the month after.\n\nWhat he did, step by step. 10 tips 🧵",
+        "caption_line": "90 days to save the chair. 8 weeks was enough 💈"
+      },
+      {
+        "headline": "her food truck had one season to work",
+        "thread_intro": "A food truck owner told me the truck had one season to work or it was getting sold. Her page went 900 to 45,000 followers in four months and the truck now posts its location to a crowd that shows up.\n\nHer 10 moves 🧵",
+        "caption_line": "one season or sell the truck. the page saved it"
+      },
+      {
+        "headline": "a 7-figure creator walked me through his whole system once",
+        "thread_intro": "Before I built Creator OS, a creator doing 7 figures walked me through his entire posting system in one afternoon. Most of what I built exists because of that conversation.\n\nEverything he taught me, in my words. 10 tips 🧵",
+        "caption_line": "one afternoon with a 7-figure creator changed what i built"
+      },
+      {
+        "headline": "a creator friend finally showed me how she actually grows accounts",
+        "thread_intro": "A creator friend who grows pages for a living finally showed me how she actually does it. No magic. A system so repeatable I ended up building software around it.\n\nHer playbook, start to finish 🧵",
+        "caption_line": "she spilled the whole system. i turned it into software"
+      },
+      {
+        "headline": "i see every winning account's backend. they all do these 10 things.",
+        "thread_intro": "I built Creator OS, which means I see how hundreds of growing accounts actually operate behind the scenes. The winners all do the same 10 things.\n\nHere they are 🧵",
+        "caption_line": "hundreds of backends. the winners all look the same"
+      },
+      {
+        "headline": "an agency owner showed me the checklist she runs on every client",
+        "thread_intro": "An agency owner running 12 client accounts showed me the exact checklist she runs on every single one. Same list whether the client has 200 followers or 200,000.\n\nThe checklist 🧵",
+        "caption_line": "12 clients, one checklist. she let me share it"
+      },
+      {
+        "headline": "the first creator on our beta taught me more than any course",
+        "thread_intro": "The first creator who ever ran her account through my app taught me more about growth than any course I have taken. She went 0 to 80,000 in under a year while I watched the system work.\n\nWhat she actually did 🧵",
+        "caption_line": "user number one taught the founder. 0 to 80K"
+      },
+      {
+        "headline": "a physiotherapist on our beta filled a dead clinic",
+        "thread_intro": "A physiotherapist on our first beta had a clinic empty half the week. She rebuilt her page from 1,000 followers to 55,000 in six months and now runs a waitlist.\n\nWhat she actually did. 10 tips 🧵",
+        "caption_line": "empty clinic to a waitlist. I watched it from the backend 🩺"
+      },
+      {
+        "headline": "a bookkeeper thought her work was 'unpostable.' wrong.",
+        "thread_intro": "A bookkeeper told me her work was too boring to post. She was wrong. Her page went 400 to 38,000 followers in five months and she's fully booked with clients.\n\nHer 10 moves 🧵",
+        "caption_line": "she thought bookkeeping was unpostable. fully booked now 📊"
+      },
+      {
+        "headline": "a swim school had 90 days to fill summer lessons",
+        "thread_intro": "A swim school owner had 90 days to fill summer or cut instructors. Her page went 1,500 to 42,000 followers in ten weeks and every slot sold out.\n\nEverything she ran, in order. 10 tips 🧵",
+        "caption_line": "90 days to fill summer. every slot sold out 🏊"
+      },
+      {
+        "headline": "a candle maker turned a hobby into a real business",
+        "thread_intro": "A candle maker ran her shop as a hobby that barely broke even. She rebuilt her page from 700 to 80,000 followers in seven months and quit her job.\n\nHer 10 tips 🧵",
+        "caption_line": "a hobby to a full income in 7 months 🕯️"
+      },
+      {
+        "headline": "a wedding DJ booked off referrals until they stopped",
+        "thread_intro": "A wedding DJ lived on referrals until a slow year hit. He built his page from 1,200 to 60,000 followers in eight months and books a full season ahead now.\n\nThe whole system 🧵",
+        "caption_line": "referrals dried up. he books a season ahead now 🎧"
+      },
+      {
+        "headline": "a dog groomer had 6 regulars. now she's booked out.",
+        "thread_intro": "A dog groomer came to us with six regulars and empty days. Her page went 500 to 33,000 followers in five months and she runs a two-week waitlist.\n\nWhat she changed 🧵",
+        "caption_line": "6 regulars to a 2-week waitlist. the page did it 🐕"
+      },
+      {
+        "headline": "a music teacher had one term to fill her studio",
+        "thread_intro": "A music teacher gave her page one term to fill her studio or she'd take a school job. It went 900 to 40,000 followers and every lesson slot filled.\n\nHer 10 moves 🧵",
+        "caption_line": "one term to fill the studio. every slot is taken now 🎹"
+      },
+      {
+        "headline": "a ceramics studio bet its page over local ads",
+        "thread_intro": "A ceramics studio owner spent on local ads that did nothing. We rebuilt her page from 1,100 to 52,000 followers in six months and classes sell out the day they post.\n\nThe 10 things she ran 🧵",
+        "caption_line": "ditched local ads. classes sell out same day now 🏺"
+      },
+      {
+        "headline": "a thrift store owner had one season to go viral or fold",
+        "thread_intro": "A thrift store owner had one season to make the page work or close. It went 800 to 70,000 followers and drop days now bring a line down the block.\n\nExactly what worked. 10 tips 🧵",
+        "caption_line": "one season to matter. drop days pull a line now 🧥"
+      },
+      {
+        "headline": "a personal chef had 3 clients and no page",
+        "thread_intro": "A personal chef came to us with three clients and no online presence. Her page went 0 to 45,000 followers in six months and her calendar is fully booked.\n\nHer 10 tips 🧵",
+        "caption_line": "3 clients to a full calendar. from zero page 👩‍🍳"
+      }
+    ],
+    "hook_scenes": [
+      "A young Black man in his mid-20s with deep brown skin, a short cropped fade with a sharp line-up, athletic muscular build and a thin silver cuban-link chain, framed thigh-up and dominating the frame, leaning back against a matte-black Porsche 911 parked on a moody downtown street at golden hour — photographed from behind with his face fully turned away down the street, wearing a fitted {{OUTFIT}} overshirt and clean white sneakers, phone held loose at his side. Cinematic editorial, creamy bokeh, shallow depth of field, rich filmic grade, photorealistic, subtle grain. His face is never visible — no face, no reflection of his face in the car glass. No text, no captions, no watermark.",
+      "A young Black man with a short cropped fade, athletic muscular build and a thin silver cuban-link chain, framed thigh-up and dominating the frame, taking a mirror selfie in a sleek black-and-chrome boutique gym — his iPhone raised so it fully covers his entire face, wearing a fitted black tank, defined arms and shoulders, chrome equipment and dramatic warm lighting softly blurred behind. Editorial fitness photography, creamy bokeh, shallow depth of field, photorealistic, subtle grain. His face is completely hidden behind the phone — no visible face, no face in the mirror reflection. No text, no captions, no watermark.",
+      "A young Black man with a short cropped fade and a thin silver cuban-link chain, framed thigh-up and dominating the frame, standing at a rooftop terrace rail at dusk with a city skyline softly blurred behind — photographed from behind, face fully turned away to the view, a laptop under one arm, wearing a chic {{OUTFIT}} overshirt. Moody cinematic editorial, creamy bokeh, rich filmic grade, photorealistic, subtle grain. His face is never visible. No text, no captions, no watermark.",
+      "A young Black man in his mid-20s with a short cropped fade, athletic muscular build and a thin silver cuban-link chain, framed thigh-up and dominating the frame, taking a mirror selfie in a moody sage-green loft bedroom — his iPhone raised so it fully covers his entire face, wearing a fitted {{OUTFIT}} tee, his fawn French bulldog visible on the bed behind him, warm Edison lamp light. Cinematic editorial, creamy bokeh, shallow depth of field, photorealistic, subtle grain. His face is completely hidden behind the phone — no visible face, no face in the mirror reflection. No text, no captions, no watermark.",
+      "A young Black man with a short cropped fade, athletic muscular build and a thin silver cuban-link chain, framed thigh-up and dominating the frame, taking a mirror selfie in a gritty boxing gym — his iPhone raised so it fully covers his entire face, wearing a fitted black tank with hand wraps on, heavy bags and a ring blurred behind, hard directional light cutting through haze, deep shadows. Moody cinematic editorial, photorealistic, subtle grain. His face is completely hidden behind the phone — no visible face, no face in the mirror reflection. No text, no captions, no watermark.",
+      "A young Black man with a short cropped fade with a sharp line-up and a thin silver cuban-link chain, framed thigh-up and dominating the frame, taking a mirror selfie in a stylish modern barbershop chair — his iPhone raised so it fully covers his entire face, a barber cape over his {{OUTFIT}} tee, exposed brick and warm pendant lights, leather chairs, moody amber glow. Cinematic editorial, creamy bokeh, photorealistic, subtle grain. His face is completely hidden behind the phone — no visible face, no face in the mirror reflection; no other clearly visible faces in the frame. No text, no captions, no watermark.",
+      "A young Black man with a short cropped fade and a thin silver cuban-link chain, framed thigh-up and dominating the frame, leaning against his matte-black Porsche 911 on a rain-slicked downtown street at night — photographed from behind with his face fully turned away, neon signs and streetlights reflecting off the wet asphalt and the matte paint, wearing a fitted {{OUTFIT}} overshirt. Moody cinematic night editorial, neon color grade, creamy bokeh, photorealistic, subtle grain. His face is never visible — no face, no reflection of his face in the car glass. No text, no captions, no watermark.",
+      "A young Black man with a short cropped fade, athletic muscular build and a thin silver cuban-link chain, framed thigh-up and dominating the frame, taking a mirror selfie backstage at a studio photo shoot — his iPhone raised so it fully covers his entire face, standing before a tall mirror beside a charcoal seamless backdrop with studio strobes and softboxes glowing, wearing an elevated {{OUTFIT}} look. Dramatic high-contrast studio lighting, editorial fashion photography, photorealistic, subtle grain. His face is completely hidden behind the phone — no visible face, no face in the mirror reflection. No text, no captions, no watermark.",
+      "A young Black man with a short cropped fade, athletic build and a thin silver cuban-link chain, framed thigh-up and dominating the frame, photographed from behind mid-stride crossing an overcast downtown street — face fully turned away, wearing a fitted {{OUTFIT}} overshirt and clean white sneakers, soft diffused grey daylight, muted tones, blurred traffic and storefronts far behind. Understated editorial street photography, creamy bokeh, photorealistic, subtle grain. No clearly visible faces anywhere in the frame. No text, no captions, no watermark.",
+      "A young Black man with a short cropped fade and athletic shoulders in a cream knit sweater, framed thigh-up and dominating the frame, taking a cozy late-night mirror selfie in his warm lamplit sage-green loft — his iPhone raised so it fully covers his entire face, his fawn French bulldog asleep on the couch behind him, a single desk lamp glowing, deep warm shadows, soft city lights through the window. Low-key night editorial, creamy bokeh, photorealistic, subtle grain. His face is completely hidden behind the phone — no visible face, no face in any reflection. No text, no captions, no watermark."
+    ],
+    "ctas": [
+      {
+        "overlay": "i built the tool that runs all of this",
+        "thread": "Threads like this are why I built Creator OS. One upload posts to every platform, every account, on schedule.\n\nIt is on the App Store: https://your-app.up.railway.app/go/kevbuildsapps-threads"
+      },
+      {
+        "overlay": "posting should take 5 minutes. i made sure of it",
+        "thread": "Every tip above gets easier when posting takes 5 minutes instead of your evening. That is exactly why I built Creator OS: https://your-app.up.railway.app/go/kevbuildsapps-threads"
+      },
+      {
+        "overlay": "save this thread. then automate it",
+        "thread": "Save this and run one tip per week. And when you are ready to automate the posting side, the app I built does it end to end: https://your-app.up.railway.app/go/kevbuildsapps-threads"
+      },
+      {
+        "overlay": "the machine should run the machine",
+        "thread": "You make the content. The machine should run the machine. That is the whole idea behind Creator OS: https://your-app.up.railway.app/go/kevbuildsapps-threads"
+      },
+      {
+        "overlay": "one upload. every platform. every day.",
+        "thread": "All of this compounds faster when publishing is not the bottleneck. One upload in Creator OS posts to every platform on schedule: https://your-app.up.railway.app/go/kevbuildsapps-threads"
+      },
+      {
+        "overlay": "the tool that runs it all is in my bio",
+        "thread": "one more thing: the tool that runs my whole operation is Creator OS. every account, every platform, one upload.\n\ngrab it: https://your-app.up.railway.app/go/kevbuildsapps-threads"
+      },
+      {
+        "overlay": "run one tip a week. app's in my bio 📌",
+        "thread": "bookmark this and run one tip a week. the app that holds the whole system together is Creator OS: https://your-app.up.railway.app/go/kevbuildsapps-threads"
+      },
+      {
+        "overlay": "the machine should run the machine",
+        "thread": "you make the content, the machine should run the machine. that's exactly what Creator OS does: https://your-app.up.railway.app/go/kevbuildsapps-threads"
+      }
+    ]
+  },
+  "integration": {
+    "screenshot": ".claude/assets/brand/danny/screenshots/social-analytics-danny.png",
+    "variants": [
+      {
+        "headline": "One upload. Every platform.",
+        "support": [
+          "I built Creator OS so one upload hits every platform at once.",
+          "It is the biggest time lever on this list."
+        ],
+        "thread": "6. Post everywhere at once. I built Creator OS so one upload hits Instagram, TikTok, X, YouTube and Threads together. Of everything in this thread, this is the biggest time lever."
+      },
+      {
+        "headline": "Schedule a week in 20 minutes",
+        "support": [
+          "Batch once, schedule everything, walk away.",
+          "Creator OS posts it from the cloud."
+        ],
+        "thread": "6. Schedule your whole week in one sitting. In Creator OS you batch once, set the times, and the cloud posts it whether your laptop is on or not. Twenty minutes on Sunday runs the week."
+      },
+      {
+        "headline": "Your agent can run it too",
+        "support": [
+          "Creator OS ships an API and CLI.",
+          "An AI agent can operate the whole system for you."
+        ],
+        "thread": "6. Automate the automation. Creator OS ships an API and a CLI, so an AI agent can publish, schedule and read your analytics without you touching a screen. You make the content, the machine runs the machine."
+      },
+      {
+        "headline": "The calendar runs itself",
+        "support": [
+          "Batch on Sunday, schedule in Creator OS, done.",
+          "The cloud posts it whether you are online or not."
+        ],
+        "thread": "6. Put the week on autopilot. Batch once, load the Creator OS calendar, and the cloud publishes on time whether your laptop is open or not. Consistency stops being a willpower problem."
+      },
+      {
+        "headline": "Track it where you post it",
+        "support": [
+          "Creator OS pulls every platform into one view.",
+          "You cannot improve what you check in five different apps."
+        ],
+        "thread": "6. Stop checking five apps for your numbers. Creator OS pulls views, followers and post performance from every platform into one dashboard. One glance a week tells you exactly what to double down on."
+      },
+      {
+        "headline": "one tap runs the posting day",
+        "support": [
+          "every account lives in Creator OS.",
+          "one upload covers them all before coffee."
+        ],
+        "thread": "6. finish the posting part before coffee. every account i run lives in Creator OS, and one upload hits all of them at once. the whole chore is done in minutes."
+      },
+      {
+        "headline": "batch once, post all week",
+        "support": [
+          "load the week into Creator OS on sunday.",
+          "the cloud publishes on time, hands off."
+        ],
+        "thread": "6. put the week on autopilot. batch once, load the Creator OS calendar, and the cloud posts on time whether the laptop is open or not. consistency stops being a grind."
+      },
+      {
+        "headline": "track it where you post it",
+        "support": [
+          "Creator OS pulls every platform into one view.",
+          "you can't fix what you check in five apps."
+        ],
+        "thread": "6. stop checking five apps for your stats. Creator OS pulls views, followers and post performance into one dashboard. one weekly glance tells you what to double down on."
+      }
+    ]
+  },
+  "backgrounds": [
+    {
+      "prompt": "A young Black man with a short cropped fade and athletic shoulders in a fitted {{OUTFIT}} tee, photographed from behind his chair at a dual-monitor editing desk in a moody sage-green loft — the back of his head and shoulders, both screens showing softly glowing blurred video-editing timelines, warm desk lamp, headphones on the desk, his fawn French bulldog asleep on a cushion beside the desk. His face is fully turned toward the screens and never visible. Candid editorial, creamy bokeh, shallow depth of field, photorealistic, subtle grain. No readable words on the screens, no text, no captions, no watermark."
+    },
+    {
+      "prompt": "A young Black man with a short cropped fade and a thin silver cuban-link chain, photographed from directly behind the driver's seat of a matte-black Porsche 911 — the back of his head, fade and shoulders in a {{OUTFIT}} overshirt, face fully turned toward the road and never visible, one hand on the wheel with exactly five natural fingers in a relaxed grip, morning light through the windshield. Candid cinematic editorial, creamy bokeh, photorealistic, subtle grain. No face, no reflection of his face anywhere. No text, no captions, no watermark."
+    },
+    {
+      "prompt": "Close over-the-shoulder shot from behind a young Black man with an athletic build in a fitted {{OUTFIT}} tee, plating a clean high-protein meal-prep lunch on a marble counter in a sage-green loft kitchen — hands with correct anatomy (exactly five natural fingers per hand), glass containers of grilled chicken, rice and greens, his fawn French bulldog looking up from the floor. His face is out of frame and never visible. Bright natural light, editorial food-lifestyle photography, creamy bokeh, photorealistic, subtle grain. No visible faces anywhere. No text, no captions, no watermark."
+    },
+    {
+      "prompt": "A young Black man with a short cropped fade, athletic muscular build, in a fitted black tank and {{OUTFIT}} shorts, photographed from behind mid dumbbell row on a bench in a sleek black-and-chrome boutique gym — defined back and shoulders, face fully turned away and never visible, dramatic warm lighting, chrome equipment softly blurred. Editorial fitness photography, creamy bokeh, shallow depth of field, photorealistic, subtle grain. No clearly visible faces anywhere in the frame. No text, no captions, no watermark."
+    },
+    {
+      "prompt": "A young Black man with a short cropped fade, athletic build, wearing a {{OUTFIT}} hoodie and joggers, photographed from directly behind walking his fawn French bulldog on a leash down a tree-lined suburban street at dusk — warm streetlights flicking on, long shadows, the dog trotting slightly ahead. The camera sees only his back and the back of his head; his face is never visible. Cinematic editorial lifestyle, creamy bokeh, warm dusk filmic grade, photorealistic, subtle grain. No visible faces anywhere. No text, no captions, no watermark."
+    },
+    {
+      "prompt": "A young Black man with a short cropped fade and a thin silver cuban-link chain, seen from behind at a sunlit café window bar in a chic {{OUTFIT}} overshirt, face turned fully toward the window and never visible — a phone propped on a small tripod filming a pour-over coffee beside an open laptop with a softly glowing blurred screen. Bright editorial, creamy bokeh, shallow depth of field, photorealistic, subtle grain. No clearly visible faces anywhere in the frame. No readable text anywhere, no captions, no watermark."
+    },
+    {
+      "prompt": "A young Black man with a short cropped fade and athletic shoulders in a cream knit sweater, photographed from behind on a leather couch at night in his warm lamplit sage-green loft, face fully turned toward a single ordinary laptop showing a softly glowing blurred content-calendar grid — a candle on the walnut coffee table, framed black-and-white photography on the wall, his fawn French bulldog curled beside him. Cozy candid editorial, creamy bokeh, shallow depth of field, photorealistic, subtle grain. His face is never visible. No readable words on the screen, no text, no captions, no watermark."
+    },
+    {
+      "prompt": "A young Black man in his mid-20s with a short cropped fade, athletic muscular build and a thin silver cuban-link chain, wearing a cream knit sweater, taking a cozy night mirror selfie in a warm lamplit sage-green loft — his iPhone raised so it fully covers his entire face, his fawn French bulldog at his feet looking up, soft city lights through the window. Candid editorial lifestyle, creamy bokeh, warm filmic grade, photorealistic, subtle grain. His face is completely hidden behind the phone — no visible face, no face in any reflection. No text, no captions, no watermark."
+    }
+  ],
+  "series": [
+    {
+      "id": "growth-mechanics",
+      "tips": [
+        {
+          "headline": "Open Every Video With a Question or Unfinished Idea",
+          "short": "open with unfinished loop",
+          "support": [
+            "Your viewer's brain can't disengage from an unresolved question - use that in the first 10 seconds.",
+            "Lead with a list, a question, or a cliffhanger. Resolve it only at the end."
+          ],
+          "thread": "1. Your brain hates unfinished business — that's why you obsess over the text that never came back. Use it. In the first 10 seconds of every video, open with a question, a numbered list, or a cliffhanger idea. Your viewer physically cannot leave until it's resolved. Hook is architecture, not decoration."
+        },
+        {
+          "headline": "Write Captions Like SEO, Not a Hashtag Dump",
+          "short": "use keywords not hashtags",
+          "support": [
+            "Instagram now favors keyword-rich captions over stuffed hashtags to determine who sees your post.",
+            "Write captions that clearly signal your topic and target viewer - think search terms, not tags."
+          ],
+          "thread": "2. Hashtag stuffing is dead on Instagram. The algorithm now reads your caption like a search engine. Write keyword-rich captions that clearly signal your topic and who it's for. Think SEO, not tag strategy — your words do the distribution work now."
+        },
+        {
+          "headline": "Use Trial Reels to Test Hooks Before Going Wide",
+          "short": "test hooks with trial reels",
+          "support": [
+            "Trial reels show your content to non-followers - use them to A/B test hooks and editing styles.",
+            "IG limits how often you can use them, so post only original content and make each test count."
+          ],
+          "thread": "3. Trial reels are Instagram's built-in testing lab. They push your content to non-followers so you can test hooks, CTAs, and editing styles with zero risk to your main audience. Find what works, then scale it to regular posts."
+        },
+        {
+          "headline": "Add Music to Carousels for Reels Tab Reach",
+          "short": "add music to carousels",
+          "support": [
+            "Carousels with music can land on the Reels tab, dramatically expanding your non-follower reach.",
+            "Balance carousels with regular Reels in your posting schedule for maximum distribution."
+          ],
+          "thread": "4. A simple carousel hack: add music and it can land on the Reels tab, putting your content in front of people who don't follow you yet. Pair carousels with regular Reels in your schedule and you're hitting two discovery surfaces at once."
+        },
+        {
+          "headline": "Export at 1080p 30fps With These CapCut Adjustments",
+          "short": "export settings for sharpness",
+          "support": [
+            "After editing, set brightness +5, contrast +5, saturation +5, and sharpen to 30.",
+            "Export at 1080p / 30fps - 60fps is only worth it if you need slow-motion footage."
+          ],
+          "thread": "5. Before you export, go into your editing app's adjust panel and set brightness to 5, contrast to 5, saturation to 5, and sharpness to 30. Then export at 1080p and 30fps. 60fps looks cool but you don't need it unless you're shooting slow-mo. These four tweaks alone sharpen up phone footage fast."
+        },
+        {
+          "integration": true
+        },
+        {
+          "headline": "Fix Your Lighting With Lamps You Already Own",
+          "short": "reposition existing room lighting",
+          "support": [
+            "Same phone, same angle, same camera - just repositioning a bedroom lamp changes everything.",
+            "You don't need studio lights; you need to pay attention to where your light source sits."
+          ],
+          "thread": "7. Lighting can make or break your video — and you don't need to buy anything. Same phone, same angle, same room: just move a bedroom lamp in front of you instead of leaving the overhead on. Paying a little attention to your light source makes a huge visible difference."
+        },
+        {
+          "headline": "Use the 7x7 Method to Crack Trends",
+          "short": "analyze 49 trend videos",
+          "support": [
+            "Pick 7 creators, pull their 7 best reels, study all 49 for cadence, hooks, and framing.",
+            "Remix the format with your own pillars - algorithm-friendly AND authority-building."
+          ],
+          "thread": "8. Stop blindly copying trends. Pick 7 creators, grab their 7 best reels, and study all 49. Look for hook style, pacing, static vs dynamic shots, and text layering. Then remix the format using your own content pillars. You get the algorithm boost without losing your brand."
+        },
+        {
+          "headline": "Swap the Hook to Refresh a Flagged Reel",
+          "short": "change hook, repost reel",
+          "support": [
+            "Meta has relaxed duplicate detection - changing just the hook is usually enough to repost a trial reel.",
+            "If it still gets flagged, reorder a few clips or swap the audio before retesting."
+          ],
+          "thread": "9. If a trial reel gets flagged as a duplicate, you don't need to rebuild it from scratch. Changing just the hook is usually enough now that Meta has relaxed its duplicate detection. Still flagged? Reorder a few clips or swap the audio. Test, don't trash."
+        },
+        {
+          "headline": "Diagnose Weak Metrics With This One-Line Fix",
+          "short": "read metrics as feedback",
+          "support": [
+            "Low shares = content isn't relatable. Low saves = content isn't practical enough.",
+            "Match each weak metric to one specific fix before you shoot your next video."
+          ],
+          "thread": "10. Your metrics are a diagnostic tool. Low views = weak hook. Low shares = not relatable. Low comments = no question asked. Low saves = not practical. Low likes = no emotion. Low followers = unclear vision. Fix one at a time."
+        }
+      ],
+      "stakes": {
+        "eyebrow": "READ THIS FIRST",
+        "headline": "Good content, dead reach? It's mechanics, not luck.",
+        "support": [
+          "10 platform levers most new creators never touch."
+        ]
+      },
+      "reframe": {
+        "eyebrow": "THE SHIFT",
+        "headline": "The algorithm isn't against you. It's unread.",
+        "support": [
+          "Learn its levers and it becomes your distribution team."
+        ]
+      },
+      "proof": {
+        "overlay": {
+          "kind": "tip",
+          "eyebrow": "THE RECEIPTS",
+          "headline": "3 clients. All growing. One guy.",
+          "support": [
+            "This exact system, run every week."
+          ],
+          "position": "center"
+        }
+      },
+      "recap_title": "The growth levers:",
+      "caption": {
+        "instagram": "{{HOOK_LINE}}\n\ni built Creator OS watching accounts like this grow. the app from tip 6 is on the App Store, link in bio 📲\nfollow for what actually works, straight from the backend",
+        "tiktok": "{{HOOK_LINE}}\n\nfounder of Creator OS. tip 6 app in bio 📲"
+      }
+    },
+    {
+      "id": "content-machine",
+      "tips": [
+        {
+          "headline": "Protect a 90-Minute Deep Work Block Daily",
+          "short": "lock in 90-minute block",
+          "support": [
+            "Pick a consistent time each day and guard it from every distraction - no exceptions.",
+            "Even on chaotic days, completing this one block ensures meaningful forward progress."
+          ],
+          "thread": "1. Pick one 90-minute window each day and make it non-negotiable. No meetings, no notifications, no exceptions. Even on your worst, most distracted days, finishing this single block guarantees real progress. Consistency at a small scale beats heroic effort twice a week."
+        },
+        {
+          "headline": "Find Your Peak Window for Deep Content Work",
+          "short": "schedule shoots at peak energy",
+          "support": [
+            "Everyone has a 1.5 - 3 hour natural focus window - identify yours and protect it for filming.",
+            "Burning your peak window on scrolling or email kills your best creative output."
+          ],
+          "thread": "2. You have a 1.5–3 hour peak focus window every day. Find it, protect it, and use it exclusively for your hardest creative work — scripting, filming, editing. Everything else can wait. Most creators waste their best hours on busywork."
+        },
+        {
+          "headline": "Use Content Pockets to Film Throughout Your Day",
+          "short": "film in time pockets",
+          "support": [
+            "Map your day: 20 min free = brainstorm, gym commute = B-roll, full hour = full edit.",
+            "No single block needed - string micro-sessions together to finish a video by midnight."
+          ],
+          "thread": "3. You don't need a free afternoon to make content. 20 minutes free? Brainstorm ideas. Heading to the gym? Shoot B-roll. Got a full hour after work? Edit and finish. Stack micro-sessions throughout your day and a complete video gets made without a single dedicated block."
+        },
+        {
+          "headline": "Dedicate One Hour to Film 15 Versatile Scenes",
+          "short": "one-hour b-roll session",
+          "support": [
+            "Capture desk work, fitness, lifestyle, and creative clips - each filmed from 3 angles.",
+            "Label and store by scene so you always have visuals ready to drop into any video."
+          ],
+          "thread": "4. You don't need to film every day. Spend one focused hour shooting 15 versatile scenes — desk work, stretches, walking outside, making coffee. Film each from multiple angles. Store clips by scene in a folder. That one session can supply a full month of b-roll."
+        },
+        {
+          "headline": "Film Every B-Roll Scene From Three Different Angles",
+          "short": "vary angles per scene",
+          "support": [
+            "Shoot each clip as a close-up, wide shot, and over-the-shoulder so you always have edit options.",
+            "More angle variety per scene means one filming session covers far more future posts."
+          ],
+          "thread": "5. Every time you film b-roll, shoot each scene from at least three angles — close-up, wide shot, over-the-shoulder. One session at your desk or outdoors suddenly gives you a dozen usable clips instead of three. More angles per scene = more posts per hour of filming."
+        },
+        {
+          "integration": true
+        },
+        {
+          "headline": "Post Every Day Without Creating Every Day",
+          "short": "repurpose to post daily",
+          "support": [
+            "Batch-create once, then repurpose that content across the week so you never miss a day.",
+            "You don't need new ideas daily - you need a system that multiplies what you already made."
+          ],
+          "thread": "7. You don't have to CREATE every day to POST every day. Batch one piece of content, then repurpose it across formats and platforms all week. The goal is a system, not a grind."
+        },
+        {
+          "headline": "Keep Content Flowing With the 3 R's System",
+          "short": "repost, repurpose, ready content",
+          "support": [
+            "Repost top performers, repurpose existing clips into new formats, and pull from batched content.",
+            "This three-part loop keeps your feed active without requiring you to create from scratch daily."
+          ],
+          "thread": "8. Never run dry on content. Work the 3 R's: Repost your top performers, Repurpose existing content into new formats, and pull from content you've already batched and have Ready to go. Consistency doesn't require constant creation."
+        },
+        {
+          "headline": "Run a 7-Day Content Rotation Every Single Week",
+          "short": "use the 7-day content rotation",
+          "support": [
+            "Day 1: hot take. Day 2: how-to. Day 3: BTS. Day 4: trend with your spin.",
+            "Day 5: mistake/lesson. Day 6: listicle. Day 7: your personal story."
+          ],
+          "thread": "9. Stop guessing what to post. Rotate these 7 content types each week: hot take → how-to breakdown → BTS moment → trend with your spin → mistake or lesson → listicle → personal story. Every base covered, every audience need served."
+        },
+        {
+          "headline": "Apply Parkinson's Law to Every Content Task",
+          "short": "set strict content deadlines",
+          "support": [
+            "Assign a hard time limit to each task - work expands to fill whatever time you give it.",
+            "Cap your filming or editing session to force faster, cleaner decisions."
+          ],
+          "thread": "10. Work expands to fill the time you give it. Set a strict deadline for every content task — filming, editing, captioning. A 30-min cap beats an open-ended 3-hour session every time. Parkinson's Law is your hidden productivity hack."
+        }
+      ],
+      "stakes": {
+        "eyebrow": "READ THIS FIRST",
+        "headline": "Posting daily is easy. Creating daily is the trap.",
+        "support": [
+          "This is the batching system that ends the daily scramble."
+        ]
+      },
+      "reframe": {
+        "eyebrow": "THE SHIFT",
+        "headline": "You don't need more hours. You need a machine.",
+        "support": [
+          "Build it once, feed it weekly."
+        ]
+      },
+      "proof": {
+        "overlay": {
+          "kind": "tip",
+          "eyebrow": "THE RECEIPTS",
+          "headline": "3 clients. All growing. One guy.",
+          "support": [
+            "This exact system, run every week."
+          ],
+          "position": "center"
+        }
+      },
+      "recap_title": "The content machine:",
+      "caption": {
+        "instagram": "{{HOOK_LINE}}\n\ni built Creator OS watching accounts like this grow. the app from tip 6 is on the App Store, link in bio 📲\nfollow for what actually works, straight from the backend",
+        "tiktok": "{{HOOK_LINE}}\n\nfounder of Creator OS. tip 6 app in bio 📲"
+      }
+    },
+    {
+      "id": "new-creator-system",
+      "tips": [
+        {
+          "headline": "Commit to 100 Videos Before Judging Your Results",
+          "short": "post 100 videos first",
+          "support": [
+            "Most creators quit at 10 with no data. 100 posts gives you a real sample to learn from.",
+            "A large body of work lets you spot patterns, double down on what works, and ignore flukes."
+          ],
+          "thread": "1. Don't judge your content until you've posted 100 videos. Most creators quit at 10 — before they have enough data to learn anything. Commit to 100 first, then let the numbers tell you what to do next."
+        },
+        {
+          "headline": "Post 20 Videos, Then Let Data Choose Your Niche",
+          "short": "post 20, find top 20%",
+          "support": [
+            "Post 20 videos across your interests without pressure. Identify the top 20% performers.",
+            "Repeat the cycle 3x - now your data, not guesswork, defines your quality content."
+          ],
+          "thread": "2. Don't niche down before you have data. Post 20 videos on any of your interests. Find the top 20% performers. Do more of that. Repeat 3x. Your audience tells you what quality looks like — then build your brand around it."
+        },
+        {
+          "headline": "Reframe 200 Views as 200 People in a Room",
+          "short": "reframe small view counts",
+          "support": [
+            "200 views = 200 real humans who chose to watch you. That's a packed auditorium.",
+            "Stop measuring early posts by virality - measure by reach to real people."
+          ],
+          "thread": "3. Got 200 views and feel like quitting? Picture standing on a stage in front of 200 people who chose to be there. That's not a flop — that's a real audience. Keep going."
+        },
+        {
+          "headline": "Use the 5-Minute Rule to Kill Creator Paralysis",
+          "short": "commit to just five minutes",
+          "support": [
+            "Commit to only 5 minutes on a task before deciding to stop - 8 out of 10 times you'll finish it.",
+            "The hardest part of creating is starting; 5 minutes dismantles the perceived complexity."
+          ],
+          "thread": "4. Can't get yourself to film? Commit to just 5 minutes. Sit down, hit record, do one take. 8 out of 10 times you'll enter flow state and finish the whole session. The 5-minute rule beats motivation every single time."
+        },
+        {
+          "headline": "Shoot, Edit, and Post in Under 30 Minutes",
+          "short": "post in 30 minutes",
+          "support": [
+            "Constrain your production window so perfectionism can't stall you.",
+            "A tight time limit forces decisions and keeps your output consistent."
+          ],
+          "thread": "5. Give yourself a hard 30-minute limit to shoot, edit, and post. When the clock is running, perfectionism loses. This is how you post daily without content taking over your life."
+        },
+        {
+          "integration": true
+        },
+        {
+          "headline": "Master One Platform Before Expanding to Others",
+          "short": "dominate one platform first",
+          "support": [
+            "Pick one platform, study its algorithm, and grow there before going wide.",
+            "Spreading across platforms too early splits your focus and slows all growth."
+          ],
+          "thread": "7. In the beginning, one platform is plenty. Study how it works, learn what performs, and build an audience there first. Once you have momentum and systems, then expand. Spreading thin too early is the fastest way to grow nowhere fast."
+        },
+        {
+          "headline": "Create More Content Than You Consume Daily",
+          "short": "create more than you consume",
+          "support": [
+            "If you spend more time watching than making, you're training your taste - not your skills.",
+            "Set a simple rule: for every hour you consume, log at least one creative output."
+          ],
+          "thread": "8. Consumption is research until it becomes procrastination. If you're spending more time watching other creators than actually making content, flip the ratio. Create first, consume second. Your skills only grow from reps, not from watching someone else take them."
+        },
+        {
+          "headline": "Post the Video That Feels Off-Brand",
+          "short": "post the scary video",
+          "support": [
+            "Every plateau ends with a post that felt risky. Every level-up started with one too.",
+            "If an idea makes you hesitate because it 'doesn't fit,' that's your signal to film it."
+          ],
+          "thread": "9. Every creator plateau ends the same way: someone finally posts the video they almost deleted. The thing that got you to 10k won't get you to 100k. If an idea feels off-brand or a little scary, that's your signal — film it and post it this week."
+        },
+        {
+          "headline": "Make Yourself the Niche, Not a Topic",
+          "short": "you are the niche",
+          "support": [
+            "Pick 3 - 5 life areas as content pillars so your audience follows YOU, not a subject.",
+            "As you evolve, your content can shift - your audience stays because they're invested in you."
+          ],
+          "thread": "10. Every coach says pick a niche. Here's why that's wrong: when you evolve and want to create differently, a topic-based audience won't follow. Make YOURSELF the niche. Pick 3–5 life areas as pillars. Build an audience that follows you — not a subject."
+        }
+      ],
+      "stakes": {
+        "eyebrow": "READ THIS FIRST",
+        "headline": "Still under 1k views after months of posting?",
+        "support": [
+          "These 10 fixes are the ones that actually moved the needle."
+        ]
+      },
+      "reframe": {
+        "eyebrow": "THE SHIFT",
+        "headline": "You don't need talent. You need a sample size.",
+        "support": [
+          "Every tip below builds your data, not your ego."
+        ]
+      },
+      "proof": {
+        "overlay": {
+          "kind": "tip",
+          "eyebrow": "THE RECEIPTS",
+          "headline": "3 clients. All growing. One guy.",
+          "support": [
+            "This exact system, run every week."
+          ],
+          "position": "center"
+        }
+      },
+      "recap_title": "The new-creator system:",
+      "caption": {
+        "instagram": "{{HOOK_LINE}}\n\ni built Creator OS watching accounts like this grow. the app from tip 6 is on the App Store, link in bio 📲\nfollow for what actually works, straight from the backend",
+        "tiktok": "{{HOOK_LINE}}\n\nfounder of Creator OS. tip 6 app in bio 📲"
+      }
+    },
+    {
+      "id": "camera-confidence",
+      "tips": [
+        {
+          "headline": "Look Into the Lens, Not at Yourself",
+          "short": "eye contact with lens",
+          "support": [
+            "Staring at your own face on screen makes you perform; the lens is your viewer's eyes.",
+            "Use hands naturally, let your voice move, stay relaxed - stop performing, start conversing."
+          ],
+          "thread": "1. You cringe watching yourself back because talking to a lens isn't natural. Fix it fast: look INTO the lens, let your voice move like a real convo, use your hands, and drop the stiff posture. You look better on camera the second you stop performing."
+        },
+        {
+          "headline": "Treat the Camera Like a First-Date Conversation",
+          "short": "talk to one real person",
+          "support": [
+            "Picture a single real human on the other side - not an audience, just one person.",
+            "Share a win, a struggle, or a thought you were hesitant to say out loud."
+          ],
+          "thread": "2. Yapping to a camera gets easier when you stop performing for an audience and start talking to one real person. Picture a first date. Share a win, a struggle, or a thought you've been sitting on. That honesty is what makes people stay."
+        },
+        {
+          "headline": "Hold an Object On Camera to Reduce Stiffness",
+          "short": "hold something on camera",
+          "support": [
+            "A pen, cup, or phone gives your hands a job and stops nervous fidgeting instantly.",
+            "Doing a simple task - pouring coffee, making a salad - also creates a visual anchor that keeps viewers watching."
+          ],
+          "thread": "3. Feeling stiff on camera? Hold something — a pen, a cup, your phone. It gives your hands a job and kills nervous energy. Do a simple task while you talk and you've also got a visual anchor that keeps people watching longer."
+        },
+        {
+          "headline": "Exaggerate Pronunciation Once Before Every Recording",
+          "short": "over-pronounce before filming",
+          "support": [
+            "Run your script once with exaggerated mouth movement before hitting record.",
+            "This drills the mind-to-mouth connection and sharpens articulation instantly."
+          ],
+          "thread": "4. Before every recording, run your script once with wildly exaggerated pronunciation. Overwork your mouth on every syllable. Then hit record — your delivery will be noticeably sharper and more articulate without any extra editing."
+        },
+        {
+          "headline": "Watch Your First Take to Fix Weak Sounds",
+          "short": "review first take critically",
+          "support": [
+            "Play back your first recorded attempt and note every sound or word you muffled or rushed.",
+            "Target those exact sounds in your warm-up next session and you'll hear a clear improvement immediately."
+          ],
+          "thread": "5. After your very first take, hit play and listen for the sounds and words you stumbled on. Write them down. Target those exact spots in your next warm-up. One focused review session will make your next recording noticeably cleaner."
+        },
+        {
+          "integration": true
+        },
+        {
+          "headline": "Use Tone and Tempo as Your Two Delivery Levers",
+          "short": "vary tone and tempo",
+          "support": [
+            "Tone = pitch height. Tempo = your pacing. Flat on both = forgettable delivery.",
+            "Treat your script like a song: put weight on key words, vary speed between lines."
+          ],
+          "thread": "7. Two variables separate forgettable creators from magnetic ones: tone (how your pitch rises and falls) and tempo (how you pace between words). Flat on both = flat content. Treat your script like a song and put weight on the right words."
+        },
+        {
+          "headline": "Add Pauses and Accents to Guide Listener Attention",
+          "short": "pause and accent key words",
+          "support": [
+            "A pause before a key word works like punctuation - it signals the brain to pay attention.",
+            "Layer in a stressed accent on that word and you create rhythmic flow that keeps viewers hooked."
+          ],
+          "thread": "8. Your ideas aren't the problem — your delivery is. Add a pause before your key word and stress that word when you say it. That combo tells the viewer's brain exactly where to focus. No pause, no accent = run-on that people scroll past."
+        },
+        {
+          "headline": "Voice the 2AM Thought Your Viewer Won't Say Aloud",
+          "short": "say what they can't admit",
+          "support": [
+            "Say the exact thing your viewer is too scared to admit - the dream, the fear, the unspoken frustration.",
+            "When your content mirrors their inner world precisely, they stop watching you and start seeing themselves."
+          ],
+          "thread": "9. You don't want viewers. You want people who feel seen. So stop teaching at them and start living inside their world. Say the thing they think at 2am but won't admit to anyone. Name the car they secretly dream about. The moment your content reflects their inner life back at them, they follow for life."
+        },
+        {
+          "headline": "Record Three Reps Back-to-Back for Flow State",
+          "short": "do three recording reps",
+          "support": [
+            "Film 3 takes in a row without stopping - the third is almost always your best.",
+            "Post take 2 as a trial reel and take 3 on your main feed: two pieces of content, one session."
+          ],
+          "thread": "10. Don't film once and stop. Do 3 reps back-to-back to hit a flow state. Post rep 2 as a trial reel and rep 3 on your main feed. That's 2 pieces of content in about 30 minutes with zero extra effort."
+        }
+      ],
+      "stakes": {
+        "eyebrow": "READ THIS FIRST",
+        "headline": "Freeze up the second the camera turns on?",
+        "support": [
+          "Delivery is a skill. These 10 drills build it fast."
+        ]
+      },
+      "reframe": {
+        "eyebrow": "THE SHIFT",
+        "headline": "Confidence isn't a trait. It's reps.",
+        "support": [
+          "Every tip below is a drill you can run today."
+        ]
+      },
+      "proof": {
+        "overlay": {
+          "kind": "tip",
+          "eyebrow": "THE RECEIPTS",
+          "headline": "3 clients. All growing. One guy.",
+          "support": [
+            "This exact system, run every week."
+          ],
+          "position": "center"
+        }
+      },
+      "recap_title": "The camera-confidence drills:",
+      "caption": {
+        "instagram": "{{HOOK_LINE}}\n\ni built Creator OS watching accounts like this grow. the app from tip 6 is on the App Store, link in bio 📲\nfollow for what actually works, straight from the backend",
+        "tiktok": "{{HOOK_LINE}}\n\nfounder of Creator OS. tip 6 app in bio 📲"
+      }
+    },
+    {
+      "id": "get-paid",
+      "tips": [
+        {
+          "headline": "Give Free Value First, Monetize Much Later",
+          "short": "free value before monetization",
+          "support": [
+            "Spend year 1-2 purely giving free value before pitching anything paid.",
+            "Trust and goodwill compound - digital products then outperform brand deals."
+          ],
+          "thread": "1. Prioritize free value for your first 1-2 years. Build goodwill before you pitch anything. When you do monetize, digital products beat brand deals every time. The audience you earn by giving first is the one that actually buys."
+        },
+        {
+          "headline": "Build an Email List With Free Value First",
+          "short": "collect emails with freebies",
+          "support": [
+            "Offer a free mini-resource or checklist to collect emails so you own your audience outside the algorithm.",
+            "An email list gives you direct access to followers even if your account gets restricted or shadowbanned."
+          ],
+          "thread": "2. Don't let the algorithm own your audience. Offer a free checklist or mini-resource in exchange for emails and build a list you actually control. When the algorithm shifts, your email list doesn't care - and that's the leverage most creators ignore until it's too late."
+        },
+        {
+          "headline": "Build a Service Business Before Selling Your Own Products",
+          "short": "service first, products later",
+          "support": [
+            "Land one client, master delivery, then add a second - rinse and repeat to $5K/month.",
+            "Only scale your own products after years of free value and a proven skill."
+          ],
+          "thread": "3. Want to build a real online business? Start with a service. Learn one high-value skill, pitch your first client, deliver results, then add a second. Once you hit $5K/month, go all-in. Products and brand deals come after you've earned trust - not before."
+        },
+        {
+          "headline": "Follow a Four-Stage Monetization Roadmap",
+          "short": "product, content, partnerships, reinvest",
+          "support": [
+            "Stage 1: one-off product. Stage 2: recurring content product. Stage 3: selective brand deals.",
+            "Stage 4: reinvest into a legal entity, team, equipment, and collaborations - in that order."
+          ],
+          "thread": "4. Here's the monetization order that actually works: (1) sell a simple one-off product to prove your audience converts, (2) add a recurring content product like a newsletter or course, (3) take only brand deals that fit your audience, (4) reinvest into a legal entity, team, and gear. Don't skip steps."
+        },
+        {
+          "headline": "Validate With a Minimal Product Before Scaling Up",
+          "short": "test one simple product first",
+          "support": [
+            "Start with an e-guide, template, or mini-course to see if your audience actually converts.",
+            "That conversion data is more valuable than follower count - use it before building a full course."
+          ],
+          "thread": "5. Before you launch a membership or full course, sell something small first - an e-guide, template, or webinar. It tells you whether your audience converts. That data is worth more than any follower milestone before you invest real time and money scaling up."
+        },
+        {
+          "integration": true
+        },
+        {
+          "headline": "Turn One Viral Post Into a $39 Digital Product",
+          "short": "monetize your best post",
+          "support": [
+            "Take your top-performing post, distill the idea into a guide, checklist, or template, and price it at $39.",
+            "One proven concept + simple PDF = your first digital product sale without an existing audience."
+          ],
+          "thread": "7. Your best post already proved people want the idea. Now package it: turn it into a simple guide, checklist, or template and price it at $39. You don't need a big audience - you need one proven concept and one product. That's how you make your first sale."
+        },
+        {
+          "headline": "Prioritize Digital Products Over Brand Deals",
+          "short": "digital products beat brand deals",
+          "support": [
+            "Brand deals are one-time income; digital products scale without extra effort.",
+            "Even a simple $50 product sold to 1% of a small audience changes your revenue."
+          ],
+          "thread": "8. Brand deals pay once. Digital products keep paying. If you're choosing where to invest your energy as a creator, build something you own and can sell repeatedly - it scales in ways a sponsored post never will."
+        },
+        {
+          "headline": "Reject Low-Value Brand Deals Immediately",
+          "short": "decline lowball brand offers",
+          "support": [
+            "If a brand deal pays under your minimum rate, decline - your page and audience attention are finite assets.",
+            "Accepting bad deals trains brands to undervalue you and dilutes trust with your audience."
+          ],
+          "thread": "9. A brand offering you a $30 product for hours of your work plus your audience's attention is not a deal - it's a trade you'll regret. Your page is a valuable asset. Set a minimum rate, stick to it, and say no to anything that doesn't meet it. Scarcity of your yes is what raises your price."
+        },
+        {
+          "headline": "Build Four Offer Types Around One Audience",
+          "short": "stack digital offer types",
+          "support": [
+            "Templates, PDF guides, a community, live workshops, and mini-courses each hit a different",
+            "buyer stage - stack them to generate income at every level of audience awareness."
+          ],
+          "thread": "10. Don't rely on a single revenue stream. Build four offer types around the same audience: a plug-and-play template, a short actionable guide, a live workshop, and a mini-course. Each one meets your audience at a different stage of readiness - and together they compound your income."
+        }
+      ],
+      "stakes": {
+        "eyebrow": "READ THIS FIRST",
+        "headline": "Followers are not a business. A system that pays is.",
+        "support": [
+          "10 steps to turn an audience into income."
+        ]
+      },
+      "reframe": {
+        "eyebrow": "THE SHIFT",
+        "headline": "You do not need a huge audience. You need an offer.",
+        "support": [
+          "Small, loyal and served beats big and ignored."
+        ]
+      },
+      "proof": {
+        "overlay": {
+          "kind": "tip",
+          "eyebrow": "THE RECEIPTS",
+          "headline": "3 clients. Retainers paid. One guy.",
+          "support": [
+            "Audience first, offers second. It works."
+          ],
+          "position": "center"
+        }
+      },
+      "recap_title": "The money playbook:",
+      "caption": {
+        "instagram": "{{HOOK_LINE}}\n\ni built Creator OS watching accounts like this grow. the app from tip 6 is on the App Store, link in bio 📲\nfollow for what actually works, straight from the backend",
+        "tiktok": "{{HOOK_LINE}}\n\nfounder of Creator OS. tip 6 app in bio 📲"
+      }
+    }
+  ],
+  "hashtags": [
+    "#ugccreator",
+    "#contentcreatortips",
+    "#socialmediatips",
+    "#marketingtips",
+    "#creatoreconomy",
+    "#growyouraccount",
+    "#contentstrategy",
+    "#creatoros"
+  ],
+  "prompt_suffix": "Jewelry and accessories: at most ONE watch or bracelet, worn on one wrist only — NEVER a watch on each wrist, never duplicated accessories. Correct human anatomy, exactly five natural fingers per visible hand."
+}

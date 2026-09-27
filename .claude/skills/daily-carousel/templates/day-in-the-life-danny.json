@@ -1,0 +1,79 @@
+{
+  "topic_prefix": "Danny day in the life one-man agency",
+  "content_pillar": "creatoros",
+  "visual_pillar": "business",
+  "identity_anchor": "Danny — a young Black man in his mid-20s with deep brown skin, a short cropped fade with a sharp line-up, clean-shaven, athletic muscular build, thin silver cuban-link chain necklace. HIS FACE IS NEVER SHOWN — every shot is from behind, face turned away, or hidden behind his phone; identity is carried by the fade, chain, build, matte-black 911 and fawn French bulldog.",
+  "bank_vars": {
+    "OUTFIT": "outfits",
+    "GYM": "gyms",
+    "BARBER": "barbers",
+    "RESTO": "restos",
+    "HOOK": "hooks",
+    "HOOK_LINE": "caption_hook_lines"
+  },
+  "banks": {
+    "outfits": ["all-black", "charcoal-grey", "cream-knit", "olive", "navy"],
+    "hooks": [
+      "How I Made $22,000 Last Month Running a One-Man Agency",
+      "My One-Man Agency Hits $5k a Week (No Employees)",
+      "Gym, Dog, 3 Clients — $22k a Month Alone",
+      "How One App Replaced the Team I Never Hired",
+      "I Run 3 Businesses' Socials Alone and Out-Earn Their Managers",
+      "$700/Day Running Socials for Local Businesses (Solo)",
+      "I Quit My 9-5 and Doubled My Income in 6 Months",
+      "3 Clients. 4 Hours a Day. $22k a Month."
+    ],
+    "caption_hook_lines": [
+      "one-man agency, $22k months — gym, dog, dashboard. that's the whole operation 🐾",
+      "$5k a week, zero employees. just me, the 911 and CreatorOS 🐾",
+      "gym at 5, three clients by 6, dog walk at 7 — $22k a month alone 🐾",
+      "the whole marketing team is one guy and one app 🐾",
+      "I run 3 businesses' socials alone and out-earn their managers 🐾",
+      "$700/day running socials for local businesses — the honest breakdown 🐾",
+      "quit the 9-5, doubled my income, never looked back 🐾",
+      "3 clients. 4 hours a day. $22k a month. here's the real version 🐾"
+    ],
+    "gyms": ["IRON DISTRICT", "THE FORGE GYM", "APEX PERFORMANCE", "NORTHSIDE STRENGTH"],
+    "barbers": ["KINGS CUT STUDIO", "FADE SOCIETY", "THE CHAIR CLUB", "PRIME CUTS CO."],
+    "restos": ["EMBER & OAK", "THE BLACKBIRD", "CHAR HOUSE", "VERDE KITCHEN"]
+  },
+  "slides": [
+    { "source": "fal", "persona": false, "time": "4:58 AM", "scene": "Dawn bedroom mirror selfie — phone covers face (cover)", "focus": "center", "overlay": "",
+      "prompt": "A young Black man in his mid-20s with deep brown skin, a short cropped fade with a sharp line-up, athletic muscular build and a thin silver cuban-link chain, taking a mirror selfie in front of a tall mirror in a moody sage-green loft bedroom at dawn — his iPhone raised so it fully covers his entire face, which is never visible. Wearing a fitted black tank top and black shorts, relaxed confident stance; behind him an unmade linen bed where his fawn French bulldog lies watching, first cold blue-hour light through the window. Full body in frame. Cinematic editorial, creamy bokeh, shallow depth of field, moody filmic grade, photorealistic, subtle grain. His face is completely hidden behind the phone — no visible face, no face in the mirror reflection. No text, no captions, no watermark." },
+    { "source": "fal", "persona": false, "time": "7:30 AM", "scene": "Matte-black 911 — driving to work (no face)", "focus": "center", "overlay": "",
+      "prompt": "A young Black man with a short cropped fade and a thin silver cuban-link chain, photographed from directly behind the driver's seat of a matte-black Porsche 911 — the camera sees the back of his head, his fade and shoulders in a chic {{OUTFIT}} overshirt, his face fully turned toward the road ahead and never visible. One hand on the steering wheel with correct human anatomy — exactly five natural fingers in a relaxed grip — an iced americano in the cupholder, morning light through the windshield. Candid cinematic editorial, creamy bokeh, shallow depth of field, photorealistic, subtle grain. His face is never visible — no face, no reflection of his face in the mirrors or windshield. No text, no captions, no watermark." },
+    { "source": "fal", "persona": false, "time": "9:00 AM", "scene": "Client 1 — filming the PT session at {{GYM}} ({{OUTFIT}})", "focus": "center", "overlay": "",
+      "prompt": "A young Black man with a short cropped fade, athletic muscular build, wearing a chic {{OUTFIT}} overshirt and tailored pants, standing in the foreground seen from behind holding up his smartphone filming a personal trainer coaching a client through a dumbbell exercise in a sleek black-and-chrome boutique gym; dramatic warm lighting, chrome equipment. His face is not visible, turned toward the pair he is filming. No clearly visible faces anywhere in the frame — the trainer and client are seen from behind or in profile, faces softly out of focus. Behind-the-scenes brand-content moment, editorial documentary style, creamy bokeh, shallow depth of field, photorealistic, subtle grain. No text, no captions, no watermark." },
+    { "source": "fal", "persona": false, "time": "11:30 AM", "scene": "Client 2 — filming the barbershop at {{BARBER}} ({{OUTFIT}})", "focus": "center", "overlay": "",
+      "prompt": "A young Black man with a short cropped fade and a thin silver cuban-link chain, wearing a chic {{OUTFIT}} overshirt, standing seen from behind holding up his smartphone filming a barber mid-fade on a client in a stylish modern barbershop — exposed brick, leather chairs, warm pendant lights. His face is not visible, turned toward the chair he is filming. No clearly visible faces anywhere in the frame — the barber and client are seen from behind or in profile, faces softly out of focus. Behind-the-scenes brand-content moment, editorial documentary style, creamy bokeh, shallow depth of field, photorealistic, subtle grain. No text, no captions, no watermark." },
+    { "source": "fal", "persona": false, "time": "1:00 PM", "scene": "Meal prep — hands only, Frenchie watching", "focus": "center", "overlay": "",
+      "prompt": "Close over-the-shoulder shot from behind a young Black man with an athletic build in a fitted {{OUTFIT}} tee, plating a clean high-protein meal-prep lunch on a marble kitchen counter in a sage-green loft kitchen — the frame shows his hands with correct anatomy (exactly five natural fingers per hand), the cutting board, grilled chicken, rice and greens in glass containers; his fawn French bulldog sits on the floor looking up hopefully. His face is out of frame and never visible. Bright natural light, editorial food-lifestyle photography, creamy bokeh, shallow depth of field, photorealistic, subtle grain. No visible faces anywhere. No text, no captions, no watermark." },
+    { "source": "fal", "persona": false, "time": "5:30 PM", "scene": "Golden hour — filming the pass at {{RESTO}} ({{OUTFIT}})", "focus": "center", "overlay": "",
+      "prompt": "A young Black man with a short cropped fade and a thin silver cuban-link chain, wearing a chic {{OUTFIT}} overshirt, standing at the pass of an upscale moody restaurant seen from behind with his face turned away, holding up his phone filming a chef's hands plating an elegant dish under warm pendant light; candlelit dining room softly blurred behind. His face is never visible. No clearly visible faces anywhere in the frame — the chef is framed at the hands and torso, face out of frame or softly out of focus. Golden-hour glow, rich filmic grade, creamy bokeh, cinematic depth of field, photorealistic, subtle grain. No text, no captions, no watermark." },
+    { "source": "fal", "persona": false, "time": "7:00 PM", "scene": "Dusk dog walk — from behind with the Frenchie", "focus": "center", "overlay": "",
+      "prompt": "A young Black man with a short cropped fade, athletic build, wearing a {{OUTFIT}} hoodie and joggers, photographed from directly behind walking his fawn French bulldog on a leash down a tree-lined suburban street at dusk — warm streetlights flicking on, long shadows, the dog trotting slightly ahead. The camera sees only his back and the back of his head; his face is never visible. Cinematic editorial lifestyle, creamy bokeh, shallow depth of field, warm dusk filmic grade, photorealistic, subtle grain. No visible faces anywhere. No text, no captions, no watermark." },
+    { "source": "fal", "persona": false, "time": "8:30 PM", "scene": "Night batch — edit desk from behind, Frenchie asleep", "focus": "center", "overlay": "",
+      "prompt": "A young Black man with a short cropped fade and athletic shoulders in a fitted {{OUTFIT}} tee, photographed from behind his chair at a dual-monitor editing desk in a moody sage-green loft — the camera sees the back of his head and shoulders, both screens showing softly glowing blurred video-editing timelines, warm desk lamp, headphones on the desk, his fawn French bulldog asleep on a cushion beside the desk. His face is fully turned toward the screens and never visible. Candid editorial, creamy bokeh, shallow depth of field, photorealistic, subtle grain. His face is never visible. No text, no captions, no watermark, no readable words on the screens." },
+    { "source": "file", "time": "9:30 PM", "scene": "CreatorOS dashboard — the receipts", "overlay": "",
+      "file": ".claude/brand-content/danny/screenshots/social-analytics-danny.png" },
+    { "source": "fal", "persona": false, "time": "10:00 PM", "scene": "Night mirror-selfie closer — phone covers face, CTA anchor", "focus": "center", "overlay": "",
+      "prompt": "A young Black man in his mid-20s with a short cropped fade, athletic muscular build and a thin silver cuban-link chain, wearing a cream knit sweater, taking a cozy night mirror selfie in front of a tall mirror in his warm lamplit sage-green loft — his iPhone raised so it fully covers his entire face, which is never visible. His fawn French bulldog sits at his feet looking up; soft city lights through the window behind. Relaxed confident stance. Candid editorial lifestyle, creamy bokeh, shallow depth of field, warm filmic grade, photorealistic, subtle grain. His face is completely hidden behind the phone — no visible face, no face in any reflection. No text, no captions, no watermark." }
+  ],
+  "overlays": [
+    { "kind": "hook", "time": "4:58 AM", "headline": "{{HOOK}}" },
+    { "kind": "bullets", "time": "7:30 AM", "title": "Today's list:", "items": ["PT content @ the gym", "Barbershop b-roll", "Meal prep + macros", "Golden-hour restaurant shoot", "Walk the dog", "Batch + schedule everything"] },
+    { "kind": "label", "time": "9:00 AM", "name": "{{GYM}}", "subtitle": "PT Content Shoot" },
+    { "kind": "label", "time": "11:30 AM", "name": "{{BARBER}}", "subtitle": "Barbershop B-roll" },
+    { "kind": "caption", "time": "1:00 PM", "text": "meal prep + macros" },
+    { "kind": "label", "time": "5:30 PM", "name": "{{RESTO}}", "subtitle": "Golden-hour Client Shoot" },
+    { "kind": "caption", "time": "7:00 PM", "text": "walk with the little guy" },
+    { "kind": "caption", "time": "8:30 PM", "text": "batching the whole day's content" },
+    { "kind": "caption", "text": "Scheduling a week of content in 5 minutes with CreatorOS" },
+    { "kind": "caption", "time": "10:00 PM", "text": "comment \"OS\" for the app" }
+  ],
+  "caption": {
+    "instagram": "{{HOOK_LINE}}\n\nthe honest version:\n🌅 4:58 club (the frenchie stays asleep)\n🚗 matte-black 911 → 3 clients, back to back\n🎥 a gym, a barbershop + a restaurant — all filmed before dinner\n🧠 then ONE night session to batch, schedule + post everything\n\nthe part nobody shows you 👇\nI don't have a team. I have CreatorOS. it pushes a whole week of content to Instagram, TikTok & YouTube in one tap — receipts on slide 9 📈\n\ncomment \"OS\" and I'll DM you the exact app I use 🐾\nsave this for your 2027 vision board 📌",
+    "tiktok": "{{HOOK_LINE}}\n\nno team. just CreatorOS.\n\ncomment \"OS\" if you want the app 📲"
+  },
+  "hashtags": ["#dayinthelife", "#agencyowner", "#onemanagency", "#entrepreneur", "#selfimprovement", "#contentcreator", "#creatoreconomy", "#creatoros"]
+}

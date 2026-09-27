@@ -1,0 +1,233 @@
+{
+  "topic_prefix": "Day in the life marketing manager",
+  "content_pillar": "creatoros",
+  "visual_pillar": "aesthetic",
+  "identity_anchor": "Megan — a young white woman in her mid-20s with long glossy platinum-blonde hair in soft loose waves, fair sun-kissed skin, delicate silver heart necklace, curvy hourglass figure. HER FACE IS NEVER SHOWN — every shot is from behind, face turned away, or hidden behind her phone; identity is carried by the hair, necklace, outfit and husky.",
+  "banks": {
+    "outfits": [
+      "cream",
+      "all-black",
+      "butter-yellow",
+      "sage-green",
+      "soft-blush-pink"
+    ],
+    "hooks": [
+      "How I Made $25,000 Last Month Working 3 Hours a Day",
+      "My One-Woman Agency Did $30k Last Month (No Employees)",
+      "I Quit My 9-5 and Tripled My Salary Working 4-Hour Days",
+      "How I Charge $5,000/Month Per Client and Work Alone",
+      "3 Clients. 3 Hours a Day. $25k a Month.",
+      "How One App Replaced the Marketing Team I Never Hired",
+      "I Post for 3 Businesses and Make More Than Their Managers",
+      "$800/Day Running Socials for Local Businesses (Alone)"
+    ],
+    "caption_hook_lines": [
+      "POV: your one-woman marketing agency made $25k last month — and you worked 3 hours a day 🤍",
+      "POV: your agency did $30k last month and you don't have a single employee 🤍",
+      "I quit my 9-5, tripled my salary, and my commute is a pink Macan 🤍",
+      "every client pays $5k/month. it's just me and the husky 🤍",
+      "3 clients. 3 hours a day. $25k a month. here's the honest version 🤍",
+      "the marketing team is one blonde and one app 🤍",
+      "I run socials for 3 local businesses and out-earn their managers 🤍",
+      "$800/day running socials for local businesses — the realistic breakdown 🤍"
+    ],
+    "yoga_studios": [
+      "STUDIO FORM",
+      "THE POSE HOUSE",
+      "ALIGN YOGA CO.",
+      "SOL & STRETCH"
+    ],
+    "cafes": [
+      "ROSEWOOD COFFEE",
+      "CAFÉ MARLOWE",
+      "THE DAILY POUR",
+      "HONEY & OAT"
+    ],
+    "brunch_spots": [
+      "CAFÉ LILA",
+      "OLIVE & FIG",
+      "THE GARDEN TABLE",
+      "MAISON BLANC"
+    ],
+    "gyms": [
+      "PWR HOUSE",
+      "IRONWORKS CLUB",
+      "THE STRENGTH LAB",
+      "APEX ATHLETIC"
+    ],
+    "bars": [
+      "BAR AURELIA",
+      "THE VELVET HOUR",
+      "GOLDLEAF LOUNGE",
+      "BAR SOLSTICE"
+    ]
+  },
+  "slides": [
+    {
+      "source": "fal",
+      "persona": false,
+      "time": "5:45 AM",
+      "scene": "Golden-dawn bedroom mirror selfie — sexy opener (cover)",
+      "focus": "center",
+      "overlay": "",
+      "prompt": "A young white woman with long glossy platinum-blonde hair in soft loose waves, fair sun-kissed skin, a delicate silver heart necklace, curvy hourglass figure. Golden sunrise bedroom mirror selfie: standing in front of a tall arched floor mirror in a sunlit minimalist bedroom, taking a mirror selfie with her iPhone raised so it fully covers her face. Wearing a fitted ribbed butter-cream knit bralette and matching micro shorts, barefoot, weight shifted onto one hip with a softly arched back — a confident editorial silhouette. Behind her an unmade linen bed where her fluffy grey-and-white Siberian husky with blue eyes lies watching; low golden sun flaring through sheer linen curtains, warm glowing skin, long soft shadows across the wood floor. Full body in frame including bare feet. Cinematic high-end editorial, creamy bokeh, shallow depth of field, rich warm filmic grade, photorealistic, subtle grain. Her face is fully hidden behind the phone — no visible face, no face in the mirror reflection. No text, no captions, no watermark."
+    },
+    {
+      "source": "fal",
+      "persona": false,
+      "time": "8:30 AM",
+      "scene": "Pink Macan — driving to work (money shot, no face)",
+      "focus": "center",
+      "overlay": "",
+      "prompt": "A young white woman with long glossy platinum-blonde hair in soft loose waves and a delicate silver heart necklace, photographed from directly behind the driver's seat of a sleek pink Porsche Macan SUV — the camera sees the back of her head and shoulders, her platinum waves spilling over the seat, her face fully turned away toward the sunlit road ahead and never visible. One hand resting on the steering wheel with correct human anatomy — exactly five natural fingers in a relaxed grip — an iced matcha in the cupholder and a designer tote on the passenger seat, wearing a chic {{OUTFIT}} tailored blazer. Warm morning light through the windshield, candid cinematic editorial, creamy bokeh, shallow depth of field, photorealistic, subtle grain. Her face is never visible — no face, no reflection of her face in the mirrors or windshield. No text, no captions, no watermark."
+    },
+    {
+      "source": "fal",
+      "persona": false,
+      "time": "9:30 AM",
+      "scene": "Client 1 — filming the yoga studio ({{OUTFIT}} OOTD)",
+      "focus": "center",
+      "overlay": "",
+      "prompt": "A young white woman with long glossy platinum-blonde hair and a curvy hourglass figure, wearing a chic {{OUTFIT}} tailored blazer over a fitted top with matching {{OUTFIT}} tailored shorts and nude strappy heels, a small designer handbag and delicate gold jewelry. Standing in the foreground seen from behind holding up her smartphone horizontally filming a yoga instructor guiding a female client through a graceful pose in a beautiful sunlit boutique yoga studio with hanging plants and warm wood floors; soft morning light, other mats visible. Her face is not visible, turned toward the scene she is filming. Behind-the-scenes brand-content moment, editorial documentary style, creamy bokeh, shallow depth of field, photorealistic, subtle grain. No clearly visible faces anywhere in the frame — the instructor and client are seen in profile or from behind, faces softly out of focus. No text, no captions, no watermark. FACE POLICY: HER face is never visible — she is photographed from behind, over the shoulder, or with her phone fully covering her face, including in mirrors and reflections. Other people's faces are fine."
+    },
+    {
+      "source": "fal",
+      "persona": false,
+      "time": "11:00 AM",
+      "scene": "Client 2 — filming the café barista ({{OUTFIT}} OOTD)",
+      "focus": "center",
+      "overlay": "",
+      "prompt": "A young white woman with long glossy platinum-blonde hair in soft waves and a curvy hourglass figure, wearing a chic {{OUTFIT}} tailored blazer over a fitted top with matching {{OUTFIT}} tailored shorts and nude strappy heels, a small designer handbag and delicate gold jewelry. Standing at a sunlit specialty café counter seen from behind holding up her smartphone filming a barista's hands pouring delicate latte art into a ceramic cup; warm café interior with other customers softly blurred at marble tables. Her face is not visible, turned toward the barista. Bright airy editorial lifestyle photography, creamy bokeh, shallow depth of field, photorealistic, subtle grain. No clearly visible faces anywhere in the frame — the barista is framed at the hands and torso, face out of frame or softly out of focus. No text, no captions, no watermark. FACE POLICY: HER face is never visible — she is photographed from behind, over the shoulder, or with her phone fully covering her face, including in mirrors and reflections. Other people's faces are fine."
+    },
+    {
+      "source": "fal",
+      "persona": false,
+      "time": "12:30 PM",
+      "scene": "Brunch with besties — emotion re-hook (no faces)",
+      "focus": "center",
+      "overlay": "",
+      "prompt": "A young white woman with long glossy platinum-blonde hair in soft waves, a delicate silver heart necklace and a chic {{OUTFIT}} tailored blazer, photographed from behind and over her shoulder at a sunlit brunch table — the camera behind her so only the back of her head, her blonde waves and her raised iced-matcha glass are visible, her face fully turned away and never visible. Across the marble table two stylish female friends clink glasses mid-laugh, their heads turned toward each other and softly out of focus so no face is clearly visible; a beautiful brunch spread, bright airy café. Candid editorial lifestyle, creamy bokeh, shallow depth of field, photorealistic, subtle grain. No clearly visible faces anywhere in the frame. No text, no captions, no watermark. FACE POLICY: HER face is never visible — she is photographed from behind, over the shoulder, or with her phone fully covering her face, including in mirrors and reflections. Other people's faces are fine."
+    },
+    {
+      "source": "fal",
+      "persona": false,
+      "time": "3:00 PM",
+      "scene": "Client 3 — filming the gym trainer ({{OUTFIT}} OOTD)",
+      "focus": "center",
+      "overlay": "",
+      "prompt": "A young white woman with long glossy platinum-blonde hair and a curvy hourglass figure, wearing a chic {{OUTFIT}} tailored blazer over a fitted top with matching {{OUTFIT}} tailored shorts and nude strappy heels, holding a small designer handbag. Standing to the side holding up her smartphone filming a male personal trainer coaching a female client through a dumbbell exercise in a sleek high-end black-and-chrome boutique gym; chrome equipment, dramatic warm lighting, another gym-goer blurred in the background. Her face is not visible, turned toward the pair she is filming. Behind-the-scenes brand-content moment, dynamic editorial documentary style, creamy bokeh, shallow depth of field, photorealistic, subtle grain. No clearly visible faces anywhere in the frame — the trainer and client are seen from behind or in profile, faces softly out of focus. No text, no captions, no watermark. FACE POLICY: HER face is never visible — she is photographed from behind, over the shoulder, or with her phone fully covering her face, including in mirrors and reflections. Other people's faces are fine."
+    },
+    {
+      "source": "fal",
+      "persona": false,
+      "time": "5:30 PM",
+      "scene": "Golden hour — filming the bartender ({{OUTFIT}} OOTD)",
+      "focus": "center",
+      "overlay": "",
+      "prompt": "A young white woman with long glossy platinum-blonde hair and a curvy hourglass figure, wearing a chic {{OUTFIT}} tailored blazer over a fitted top with matching {{OUTFIT}} tailored shorts and nude strappy heels, holding a small designer handbag. Standing at a marble cocktail bar in a luxe dimly-lit restaurant seen from behind with her face turned away, holding up her phone filming a bartender pouring a vibrant signature cocktail; a warm candlelit dining room with a few blurred patrons behind. Golden-hour glow, rich filmic grade, creamy bokeh, cinematic depth of field, photorealistic, subtle grain. No clearly visible faces anywhere in the frame — the bartender is framed at the hands and torso, face out of frame or softly out of focus. No text, no captions, no watermark. FACE POLICY: HER face is never visible — she is photographed from behind, over the shoulder, or with her phone fully covering her face, including in mirrors and reflections. Other people's faces are fine."
+    },
+    {
+      "source": "fal",
+      "persona": false,
+      "time": "8:00 PM",
+      "scene": "Night batch — couch, laptop, husky (from behind, no face)",
+      "focus": "center",
+      "overlay": "",
+      "prompt": "A young white woman with long glossy platinum-blonde hair in soft waves wearing an oversized cream knit sweater, photographed from behind the linen sofa over her shoulder — the camera sees the back of her head and her blonde waves, her face fully turned toward the laptop and never visible. She sits cross-legged typing on a single ordinary open MacBook laptop resting on her lap — one coherent device with its screen attached to the keyboard at a natural angle, the screen showing a softly glowing blurred video-editing timeline; a closed notebook and an iced matcha on the couch beside her, her fluffy grey-and-white Siberian husky with blue eyes asleep on the rug below. Warm lamplight, plants, aesthetic living room. Candid editorial lifestyle, creamy bokeh, shallow depth of field, photorealistic, subtle grain. Her face is never visible. No text, no captions, no watermark, no visible written words anywhere in the scene."
+    },
+    {
+      "source": "file",
+      "time": "9:00 PM",
+      "scene": "CreatorOS dashboard — the receipts",
+      "overlay": "",
+      "file": ".claude/assets/brand/megan/screenshots/client-dashboard.png"
+    },
+    {
+      "source": "fal",
+      "persona": false,
+      "time": "9:30 PM",
+      "scene": "Night mirror-selfie closer — phone covers face, CTA anchor",
+      "focus": "center",
+      "overlay": "",
+      "prompt": "A young white woman with long glossy platinum-blonde hair in soft loose waves, a delicate silver heart necklace and an oversized cream knit sweater, taking a cozy night-in mirror selfie in front of a tall living-room mirror — her iPhone raised so it fully covers her entire face, which is never visible. Warm lamplight, her fluffy grey-and-white Siberian husky with blue eyes sitting at her feet looking up, a lit candle and an iced matcha on the marble coffee table beside her, soft-focus warm city lights through the window behind. Relaxed confident stance, weight on one hip. Candid editorial lifestyle, creamy bokeh, shallow depth of field, warm filmic grade, photorealistic, subtle grain. Her face is completely hidden behind the phone — no visible face, no face in any reflection. No text, no captions, no watermark."
+    }
+  ],
+  "overlays": [
+    {
+      "kind": "hook",
+      "time": "5:45 AM",
+      "headline": "{{HOOK}}"
+    },
+    {
+      "kind": "bullets",
+      "time": "8:30 AM",
+      "title": "Today's list:",
+      "items": [
+        "Yoga studio marketing shoot",
+        "Coffee b-roll",
+        "Brunch w/ the girls",
+        "PT content @ the gym",
+        "Golden-hour bar shoot",
+        "Batch + schedule everything"
+      ]
+    },
+    {
+      "kind": "label",
+      "time": "9:30 AM",
+      "name": "{{YOGA}}",
+      "subtitle": "Yoga Marketing Session"
+    },
+    {
+      "kind": "label",
+      "time": "11:00 AM",
+      "name": "{{CAFE}}",
+      "subtitle": "Coffee B-roll Filming"
+    },
+    {
+      "kind": "label",
+      "time": "12:30 PM",
+      "name": "{{BRUNCH}}",
+      "subtitle": "Brunch with the girls"
+    },
+    {
+      "kind": "label",
+      "time": "3:00 PM",
+      "name": "{{GYM}}",
+      "subtitle": "PT Social Media Content"
+    },
+    {
+      "kind": "label",
+      "time": "5:30 PM",
+      "name": "{{BAR}}",
+      "subtitle": "Cocktail B-roll Filming"
+    },
+    {
+      "kind": "caption",
+      "time": "8:00 PM",
+      "text": "Batching the whole day's content"
+    },
+    {
+      "kind": "caption",
+      "text": "Scheduling a week of content in 5 minutes with CreatorOS"
+    },
+    {
+      "kind": "caption",
+      "time": "9:30 PM",
+      "text": "comment \"OS\" for the app"
+    }
+  ],
+  "caption": {
+    "instagram": "{{HOOK_LINE}}\n\nthe honest version of the dream:\n🌅 5:45 club (the husky doesn't believe in snooze)\n🚗 pink Macan → 3 clients, back to back\n🎥 a yoga studio, a café + a cocktail bar — all filmed before dinner\n🧠 then ONE night session to batch, schedule + post everything\n\nthe part nobody shows you 👇\nI don't have a team. I have CreatorOS. it pushes a whole week of content to Instagram, TikTok & YouTube in one tap — receipts on slide 9 📈\n\ncomment \"OS\" and I'll DM you the exact app I use 🤍\nsave this for your 2027 vision board ✨",
+    "tiktok": "{{HOOK_LINE}}\n\nno team. just CreatorOS.\n\ncomment \"OS\" if you want the app 📲"
+  },
+  "hashtags": [
+    "#dayinthelife",
+    "#marketingmanager",
+    "#agencylife",
+    "#contentcreator",
+    "#femaleentrepreneur",
+    "#thatgirl",
+    "#creatoreconomy",
+    "#creatoros"
+  ]
+}
